@@ -118,7 +118,7 @@ G clef, F clef, and C clef: name implies note name at the start of the correspon
 
 Rhyme, Articulations, Dynamics
 
-
+tbc.
 
 ## 1. Scales and Keys
 
@@ -289,9 +289,9 @@ Any scale can be defined with three characteristic triads.
 ### 3.3 Inversion
 
 - e.g. Inversions of a C major triad in C major
-  - C6: first inversion, C is the sixth note above E(thus 6)
-  - C64: second inversion, E, C are the sixth and fourth note above E(thus 64)
-  - C/E: C chord with root note of E (modern symbol)
+  - C6: first inversion, C is the sixth note above E (thus 6)
+  - C64: second inversion, E, C are the sixth and fourth note above E (thus 64)
+  - C/E: C chord with root note of E (called Slash Chords, modern symbol)
 
 ![image-20240324220704044](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240324220704044.png?raw=true)
 
@@ -349,7 +349,7 @@ A **cadence** marks the end of a musical section. (e.g. at the end of a verse/ch
 - Authentic Cadence (AC): V7-I
 - Plagal Cadence (PC): IV-I
   - Often used in religious context
-
+  - e.g. [Blue Archive OST 136. Kyrie Eleison](https://www.youtube.com/watch?v=90gEXwoPS9U)
 - Deceptive Cadence (DC): V-vi
   - e.g. [Comparison between DC and AC](https://www.bilibili.com/video/BV1Hr4y127dF?t=54.7) 
 - Half Cadence (HC): V
@@ -368,15 +368,15 @@ A **cadence** marks the end of a musical section. (e.g. at the end of a verse/ch
 
 Seventh chord: triad+seventh
 
-| Triad | 7th interval | chord Symbol | chord name      |      |
-| ----- | ------------ | ------------ | --------------- | ---- |
-| M     | M7           | Cmaj7/CM7    | major 7th       |      |
-| M     | m7           | C7           | dominant 7th    |      |
-| m     | m7           | Cm7/C-7     | minor 7th       |      |
-| dim   | m7           | Cø7/Cm7b5        | half-diminished 7th          |      |
-| m     | M7           | CmM7         | minor major 7th |      |
-| dim   | dim7         | C°7/Cm(b7)b5     | diminished 7th          |      |
-| Aug | M7           | Caug$^{\text{maj7}}$ / C+M7 | augmented major 7th |      |
+| Triad | 7th interval | chord Symbol |      | chord name      |
+| ----- | ------------ | ------------ | ---- | --------------- |
+| M     | M7           | Cmaj7/CM7    |      | major 7th       |
+| M     | m7           | C7           |      | dominant 7th    |
+| m     | m7           | Cm7/C-7     |      | minor 7th       |
+| dim   | m7           | Cø7/Cm7b5        |      | half-diminished 7th          |
+| m     | M7           | CmM7         |      | minor major 7th |
+| dim   | dim7         | C°7/Cm(b7)b5     |      | diminished 7th          |
+| Aug | M7           | Caug$^{\text{maj7}}$ / C+M7 |      | augmented major 7th |
 
 ### 4.2 Diatonic seventh chords
 
@@ -392,7 +392,7 @@ Seventh chord: triad+seventh
 - e.g. Diatonic seventh chords of C (partially) harmonic minor (commonly used)
 
   - In the G7 chord and  Bm(b7)b5 chord the 7th degree is raised
-  - The 7th degree stays the same in the rest of the chords(thus partially) 
+  - The 7th degree stays the same in the rest of the chords (thus partially) 
 
 ![image-20240326141241157](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326141241157.png?raw=true)
 
@@ -637,7 +637,7 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 
 ![image-20240327181413998](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240327181413998.png?raw=true)
 
-**Secondary diminished**: a (half)diminished chord that resolves to a tonicized chord.
+**Secondary diminished**: a (half) diminished chord that resolves to a tonicized chord.
 
 - e.g. When Am7 in C major is tonicized, #G°7 is a secondary diminished chord
 - Note that the secondary diminished of a minor chord is a diminished chord, that of a major chord can be either half diminished or diminished 
