@@ -689,7 +689,7 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 
 ## 6. Chromatic Musical Analysis (Part II) and Others
 
-**Topics**: Exotic scales, Substitute dominant chords (IV/5 sus chord, extended chord, altered chord), Negative harmony
+**Topics**: Upper chord extensions, Exotic scales, Substitute dominant chords (extended chord, altered chord), Negative harmony
 
 ### 6.1 Upper chord extensions
 
@@ -794,10 +794,10 @@ Figure. Characteristic chords of scales
 
 ![tsse2mrtipic1](https://github.com/minth1468/music-theory-101/blob/main/assets/tsse2mrtipic1.jpg)
 
-### 6.2 Substitute dominant chords
+### 6.3 Substitute dominant chords
 
 tbc.
 
-### 6.3 Negative harmony
+### 6.4 Negative harmony
 
 tbc.
