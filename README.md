@@ -245,7 +245,9 @@ Table. Diatonic intervals in the major scale: (number in the brackets denotes th
 (Minor) **blues scale**: 1 b3 4 #4 5 b7. or 612 #2 35 
 
 - e.g. c blues scale
+
 ![image-20240319222738266](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319222738266.png?raw=true)
+
 - The #2 is called the blue note, and is usually performed lower than standard pitch.
 - Major blues scale is rarely used and most often used in ragtime and blues music.
 
@@ -279,8 +281,6 @@ The roman numeral is a way to denote diatonic  chords in a scale. (compare with 
 
 ![Roman-numerals-dia-chords-in-major](https://github.com/minth1468/music-theory-101/blob/main/assets/Roman-numerals-dia-chords-in-major.svg?raw=true)
 
-
-
 Any scale can be defined with three characteristic triads.
 
 - Major: I, IV, V
@@ -292,7 +292,8 @@ Any scale can be defined with three characteristic triads.
   - C6: first inversion, C is the sixth note above E(thus 6)
   - C64: second inversion, E, C are the sixth and fourth note above E(thus 64)
   - C/E: C chord with root note of E (modern symbol)
-  ![image-20240324220704044](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240324220704044.png?raw=true)
+
+![image-20240324220704044](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240324220704044.png?raw=true)
 
 ### 3.4 Voicing
 
@@ -308,7 +309,8 @@ Rule of thumb:
 - Use open position in lower register
 - Use close position in higher register
   - e.g. Voicing of a F major triad
-    ![image-20240326131015956](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326131015956.png?raw=true)
+
+![image-20240326131015956](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326131015956.png?raw=true)
 
 ### 3.5 Song structure
 
@@ -416,6 +418,7 @@ Resolution of intervals:
 - Diminished intervals are resolved by moving inwards
 
   - e.g. resolution of A4 and d5 intervals (both of which are tritones)
+
 ![image-20240326152132924](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152132924.png?raw=true)
 
 Resolution of dominant 7ths
@@ -423,14 +426,16 @@ Resolution of dominant 7ths
 - The 3rd and 7th degree of the dominant 7th forms a dim5 interval -> resolved by moving inwards
 - Resolution of a V7 chord leads to a I tonic triad (V7-I)
   - e.g. resolution of G7 (B->C, F->E)
-  ![image-20240326152521437](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152521437.png?raw=true)
+
+![image-20240326152521437](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152521437.png?raw=true)
 
 Resolution of half-diminished 7ths
 
 - The root and 3th degree of the half-diminished 7th forms a dim5 interval -> resolved by moving inwards
 - Resolution of a viim7b5 chord leads to a I tonic triad (viim7b5-I)
   - e.g. resolution of Bm7b5 (B->C, F->E, )
-  ![image-20240326152934971](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152934971.png?raw=true)
+
+![image-20240326152934971](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152934971.png?raw=true)
 
 ### 4.5 Voice leading
 
@@ -456,7 +461,9 @@ Principles of voice leading:
 - The line should move as little as possible (<=p4), counter move M2 after big jump 
 - [Other rules to consider](https://en.wikipedia.org/wiki/Counterpoint#Considerations_for_all_species)
   - e.g. [An example of third species counterpoint](https://en.wikipedia.org/wiki/Counterpoint#Third_species)
-  ![6wlnlm82](https://github.com/minth1468/music-theory-101/blob/main/assets/6wlnlm82.png?raw=true)
+
+![6wlnlm82](https://github.com/minth1468/music-theory-101/blob/main/assets/6wlnlm82.png?raw=true)
+
   - e.g. [An example of fourth species counterpoint](https://en.wikipedia.org/wiki/Counterpoint#Fourth_species) (Permitted dissonance if caused by suspended notes and resolved immediately)
 
 ![azgcb4rk](https://github.com/minth1468/music-theory-101/blob/main/assets/azgcb4rk.png?raw=true)
@@ -464,8 +471,11 @@ Principles of voice leading:
 Suspended chord (or **sus chord**) is related to the fourth species counterpoint.
 - The third of the chord is omitted and replaced with a P4 or a M2, denoted sus4 and sus2.
   - e.g. Csus4 and Csus2 chord
+
     ![image-20240326180835542](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326180835542.png?raw=true)
+
   - e.g. A suspended V7-I resolution with a Isus4 chord
+  
   ![image-20240326181235537](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326181235537.png?raw=true)
 
 - Modern usage of suspended chords (in Jazz/Pop, etc.  music) does not necessarily involve suspended resolution (i.e. sus chords are used to add color to chords) 
@@ -582,7 +592,9 @@ Table. Possible chords of all parallel modes of C major
 - Usually used in first inversion (denoted N6)
 - Usage 1: substitute ii in ii-V-I progression (N6-V-I)
   - e.g. N6 in C major
-  ![image-20240328155122869](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328155122869.png?raw=true)
+
+   ![image-20240328155122869](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328155122869.png?raw=true)
+
 - Usage 2: modulate down half step
 
 ### 5.3 Tritone substitution
@@ -667,6 +679,7 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
   - e.g. Mozart, Fantasia in C minor, K. 475
 
 ![Common_tone_modulation_between_chromatic_mediants_in_Mozart_K_475](https://github.com/minth1468/music-theory-101/blob/main/assets/Common_tone_modulation_between_chromatic_mediants_in_Mozart_K_475.png?raw=true)
+
 - Phrase modulation: key change with one phrase ends with a cadence in the original key, and the next phrase begins in the destination key without any transition material linking the two keys
 - Chain modulation: distant key change connected with close related key changes
   - e.g.  C major - G major - D major
@@ -776,6 +789,7 @@ Table. Modes of double harmonic major
 - **Double harmonic minor** is also called Hungarian minor scale or Gypsy minor scale
 
 Figure. Characteristic chords of scales
+
 ![tsse2mrtipic1](https://github.com/minth1468/music-theory-101/blob/main/assets/tsse2mrtipic1.jpg)
 
 ### 6.2 Substitute dominant chords
