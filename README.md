@@ -197,7 +197,7 @@ Recurrence Equation: For any major,
 - Diminished, minor, major, augmented: 2nd, 3rd, 6th, 7th
 - Diminished, perfect, augmented:1(unison), 4th, 5th, 8ve
 
-Shorthand notation foe intervals: 
+Shorthand notation for intervals: 
 
 - m2=minor second, M3=major third, aug4=augmented fourth, dim5=diminished fifth, P5=perfect fifth, tri=tritone
 
