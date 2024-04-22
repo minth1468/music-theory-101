@@ -16,8 +16,6 @@
 
 **Topics**: Temperament, Harmonic series, Clefs, Rhyme, Articulations, Dynamics
 
-------
-
 ### 0.1 Temperament
 
 The frequency of the sound produced by a string is determined by the length, tension and density of the string:
@@ -126,8 +124,6 @@ Rhyme, Articulations, Dynamics
 
 **Topics**: Major, Minor, Key signatures, Circle of fifth
 
-------
-
 ### 1.1 Scales
 
 **Major**: WWH-WWWH, or denoted 1234567 (which is a standard reference of all other scales). 
@@ -191,8 +187,6 @@ Recurrence Equation: For any major,
 ## 2. Intervals
 
 **Topics**: Intervals, Pentatonic scale, Blues scale
-
-------
 
 ### 2.1 Intervals
 
@@ -258,8 +252,6 @@ Table. Diatonic intervals in the major scale: (number in the brackets denotes th
 ## 3. Triads and Simple Tonal Musical Analysis
 
 **Topics**: Triads, Roman numerals, Inversions, Voicing, Song structure, Cadences
-
-------
 
 ### 3.1 Triads
 
@@ -369,8 +361,6 @@ A **cadence** marks the end of a musical section. (e.g. at the end of a verse/ch
 ## 4. Seventh chords and Tonal Musical Analysis
 
 **Topics**: Seventh chords, Resolution, Voice leading,  Functional harmony
-
-------
 
 ### 4.1 Seventh chords
 
@@ -526,8 +516,6 @@ Harmonic flowchart (another presentation of the T-S-D-T rule)
 ## 5. Chromatic Musical Analysis (Part I)
 
 **Topics**: Modes, Modal interchange, Tritone substitution, Secondary dominant/diminished chords, Modulation
-
-------
 
 ### 5.1 Modes
 
@@ -689,8 +677,6 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 ## 6. Chromatic Musical Analysis (Part II) and Others
 
 **Topics**: Exotic scales, Substitute dominant chords (IV/5 sus chord, extended chord, altered chord), Negative harmony
-
-------
 
 ### 6.1 Upper chord extensions
 
