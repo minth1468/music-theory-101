@@ -693,6 +693,8 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 
 ### 6.1 Upper chord extensions
 
+tbc.
+
 ### 6.2 Exotic scales
 
 **Harmonic minor**
