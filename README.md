@@ -4,7 +4,7 @@
 
 - [Music Theory Tier List](https://www.youtube.com/watch?v=ItsMmqTOgKo)
 
-![alt text](https://github.com/minth1468/music-theory-101/blob/master/assets/image-20240318185437005.png?raw=true)
+![alt text](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240318185437005.png?raw=true)
 
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c)
 
