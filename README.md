@@ -211,6 +211,7 @@ Table. Interval size vs. number of half steps
 |      |      |      |      |      | tri  | p5   | A5   |      |      |      |      |
 |      |      |      |      |      |      |      | m6   | M6   | A6   |      |      |
 |      |      |      |      |      |      |      |      | d7   | m7   | M7   |      |
+|      |      |      |      |      |      |      |      |      |      |      |   P8 |
 
 A **diatonic interval** is formed by notes in a diatonic scale. 
 
