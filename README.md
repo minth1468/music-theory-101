@@ -102,13 +102,15 @@ A piano can be differentiated from a violin because they consists of different o
 
 The nth harmonics of a fundamental frequency $f_1$ is $f_n=n\times f_1$
 
-[Sound synthesis](https://youtu.be/Y7TesKMSE74?t=416): synthesize sounds of any instrument/voice with sine wave ocsillators.
+[Sound synthesis](https://youtu.be/Y7TesKMSE74?t=416): synthesize sounds of any instrument/voice with sine wave oscillators.
+
+The **Harmonic Serie**s is the harmonics equation above expressed in the form of musical notation. (Notice the frequencies of the notes equal the multiples of 55Hz)
 
 ![image-20240319151707899](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319151707899.png?raw=true)
 
 ### 0.3 Names of clefs
 
-G clef, F clef, and C clef: name implies note name at the start of the corresponding clef.
+G clef, F clef, and C clef: name implies note name at the starting stroke of the corresponding clef.
 
 - e.g. G clef, F clef, and C clef
 
@@ -127,6 +129,8 @@ tbc.
 ### 1.1 Scales
 
 **Major**: WWH-WWWH, or denoted 1234567 (which is a standard reference of all other scales). 
+
+- Note: W and H stand for Whole step and Half step respectively. (A half step equals 1/12 of an octave and a whole step equals two half steps)
 
 - e.g. C major
 
@@ -332,7 +336,7 @@ AABA form is a basicform of music, often seen in classic and folk music.
 - Has other forms as ABAC, ABAB', etc. 
 - e.g. [A Las Barricadas](https://www.youtube.com/watch?v=7_Pk6VjZlho) (AA'BA'A'BA'A')
 
-12 bar blues progression
+12 bar blues progression: songs that follows the following progression (sometimes with a ii-V-I turnaround at the end)
 
 | I    | I    | I    | I    |
 | ---- | ---- | ---- | ---- |
