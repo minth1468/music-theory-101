@@ -32,26 +32,26 @@ Double frequency: Same pitch of higher octave.
 
 **Pythagorean tuning**: Obtaining possible pitches between 440Hz and 880Hz by applying 2/3 string length (3/2 frequency)
 
-- Recurrence Equation: If $f_n\times1.5>=880$​ , $f_{n+1}=f_n\times 0.75$
+- Recurrence Equation: If $f_n\times1.5>=880$ , $f_{n+1}=f_n\times 0.75$
   - Else: $f_{n+1}=f_n\times 1.5$
 
 Table. Pythagorean tuning starting with A440
 
 | Frequency/Hz | Note Name | Frequency (In Order)/Hz | Note Name |
-| --------- | --------- | -------------------- | --------- |
-| 440.00    | A         | 440.00               | A         |
-| 660.00    | E         | 469.86               | Bb        |
-| 495.00    | B         | 495.00               | B         |
-| 742.50    | Gb        | 528.60               | C         |
-| 556.88    | Db        | 556.88               | Db        |
-| 835.31    | Ab        | 594.67               | D         |
-| 626.48    | Eb        | 626.48               | Eb        |
-| 469.86    | Bb        | 660.00               | E         |
-| 704.79    | F         | 704.79               | F         |
-| 528.60    | C         | 742.50               | Gb        |
-| 792.89    | G         | 792.89               | G         |
-| 594.67    | D         | 835.31               | Ab        |
-| 446.00    | ~A        | 446.00               | ~A        |
+| ------------ | --------- | ----------------------- | --------- |
+| 440.00       | A         | 440.00                  | A         |
+| 660.00       | E         | 469.86                  | Bb        |
+| 495.00       | B         | 495.00                  | B         |
+| 742.50       | Gb        | 528.60                  | C         |
+| 556.88       | Db        | 556.88                  | Db        |
+| 835.31       | Ab        | 594.67                  | D         |
+| 626.48       | Eb        | 626.48                  | Eb        |
+| 469.86       | Bb        | 660.00                  | E         |
+| 704.79       | F         | 704.79                  | F         |
+| 528.60       | C         | 742.50                  | Gb        |
+| 792.89       | G         | 792.89                  | G         |
+| 594.67       | D         | 835.31                  | Ab        |
+| 446.00       | ~A        | 446.00                  | ~A        |
 
 A 446Hz is obtained after 12 iterations and is close enough to the starting frequency (440Hz), thus an Octave can be divided into 12 pitches.
 
@@ -60,37 +60,37 @@ However, the distance of the 12 pitches are not equal. To obtain a equal tempera
 Table. 12 tone equal temperament (12 TET) frequency table
 
 | Note Name | Frequency/Hz |
-| --------- | --------- |
-| A         | 440.00    |
-| Bb        | 466.16    |
-| B         | 493.88    |
-| C         | 523.25    |
-| Db        | 554.37    |
-| D         | 587.33    |
-| Eb        | 622.25    |
-| E         | 659.26    |
-| F         | 698.46    |
-| Gb        | 739.99    |
-| G         | 783.99    |
-| Ab        | 830.61    |
-| A         | 880.00    |
+| --------- | ------------ |
+| A         | 440.00       |
+| Bb        | 466.16       |
+| B         | 493.88       |
+| C         | 523.25       |
+| Db        | 554.37       |
+| D         | 587.33       |
+| Eb        | 622.25       |
+| E         | 659.26       |
+| F         | 698.46       |
+| Gb        | 739.99       |
+| G         | 783.99       |
+| Ab        | 830.61       |
+| A         | 880.00       |
 
 The hearing range of human ear is 20Hz - 20000Hz, thus all audible As can be obtained. The pitches are denoted from A0 to A9.
 
 Table. Audible frequency table of note A
 
 | Note Name | Frequency/Hz |
-| --------- | --------- |
-| A0        | 27.5      |
-| A1        | 55        |
-| A2        | 110       |
-| A3        | 220       |
-| A4        | 440       |
-| A5        | 880       |
-| A6        | 1760      |
-| A7        | 3520      |
-| A8        | 7040      |
-| A9        | 14080     |
+| --------- | ------------ |
+| A0        | 27.5         |
+| A1        | 55           |
+| A2        | 110          |
+| A3        | 220          |
+| A4        | 440          |
+| A5        | 880          |
+| A6        | 1760         |
+| A7        | 3520         |
+| A8        | 7040         |
+| A9        | 14080        |
 
 Combining 12 TET and all the A frequencies above, all 88 frequencies of the piano can be obtained.
 
@@ -211,7 +211,7 @@ Table. Interval size vs. number of half steps
 |      |      |      |      |      | tri  | p5   | A5   |      |      |      |      |
 |      |      |      |      |      |      |      | m6   | M6   | A6   |      |      |
 |      |      |      |      |      |      |      |      | d7   | m7   | M7   |      |
-|      |      |      |      |      |      |      |      |      |      |      |   P8 |
+|      |      |      |      |      |      |      |      |      |      |      | P8   |
 
 A **diatonic interval** is formed by notes in a diatonic scale. 
 
@@ -266,11 +266,11 @@ A **triad** is a three note chord consisting of root+fifth+third
   - the lowest note in the chord is the **bass note**
 
 | Upper Interval | Lower Interval | Chord Symbol (Modern) | Chord Symbol (Classical) |      |
-| -------------- | -------------- | -------------------- | ----------------------- | ---- |
-| m3             | M3             | C                    | C                       |      |
-| M3             | m3             | Cm                   | c                       |      |
-| m3             | m3             | Cdim/C-              | C°                      |      |
-| M3             | M3             | Caug                 | C+                      |      |
+| -------------- | -------------- | --------------------- | ------------------------ | ---- |
+| m3             | M3             | C                     | C                        |      |
+| M3             | m3             | Cm                    | c                        |      |
+| m3             | m3             | Cdim/C-               | C°                       |      |
+| M3             | M3             | Caug                  | C+                       |      |
 
 ### 3.2 Diatonic chords and Roman numerals
 
@@ -369,15 +369,15 @@ A **cadence** marks the end of a musical section. (e.g. at the end of a verse/ch
 
 Seventh chord: triad+seventh
 
-| Triad | 7th Interval | Chord Symbol | Chord Name      |
-| ----- | ------------ | ------------ | --------------- |
-| M     | M7           | Cmaj7/CM7    | major 7th       |
-| M     | m7           | C7           | dominant 7th    |
-| m     | m7           | Cm7/C-7     | minor 7th       |
-| dim   | m7           | Cø7/Cm7b5        | half-diminished 7th          |
-| m     | M7           | CmM7         | minor major 7th |
-| dim   | dim7         | C°7/Cm(b7)b5     | diminished 7th          |
-| Aug | M7           | Caug$^{\text{maj7}}$ / C+M7 | augmented major 7th |
+| Triad | 7th Interval | Chord Symbol                | Chord Name          |
+| ----- | ------------ | --------------------------- | ------------------- |
+| M     | M7           | Cmaj7/CM7                   | major 7th           |
+| M     | m7           | C7                          | dominant 7th        |
+| m     | m7           | Cm7/C-7                     | minor 7th           |
+| dim   | m7           | Cø7/Cm7b5                   | half-diminished 7th |
+| m     | M7           | CmM7                        | minor major 7th     |
+| dim   | dim7         | C°7/Cm(b7)b5                | diminished 7th      |
+| Aug   | M7           | Caug$^{\text{maj7}}$ / C+M7 | augmented major 7th |
 
 ### 4.2 Diatonic seventh chords
 
@@ -506,15 +506,15 @@ Harmonic progression usually follows the sequence of **T-S-D-T**
 
 Table. Typical progression loops
 
-| Progression                       | Functional Harmony Analysis |
-| --------------------------------- | --------------------------- |
-| COF progression (1-4-7-3-6-2-5-1) | T-S-D-T-T-S-D-T             |
+| Progression                         | Functional Harmony Analysis |
+| ----------------------------------- | --------------------------- |
+| COF progression (1-4-7-3-6-2-5-1)   | T-S-D-T-T-S-D-T             |
 | Canon progression (1-5-6-3-4-1-4-5) | T-D-T-T-S-T-S-D             |
-| 4-5-3-6                           | S-D-T-T                     |
-| 4-5-3-4                           | S-D-T-S                     |
-| 1-6-4-5                           | T-T-S-D                     |
-| 4-5-6 (6-7-1 in minor)            | T-D-T                       |
-| 4-5-3-6-2-5-1                     | S-D-T-T-S-D-T               |
+| 4-5-3-6                             | S-D-T-T                     |
+| 4-5-3-4                             | S-D-T-S                     |
+| 1-6-4-5                             | T-T-S-D                     |
+| 4-5-6 (6-7-1 in minor)              | T-D-T                       |
+| 4-5-3-6-2-5-1                       | S-D-T-T-S-D-T               |
 
 Harmonic flowchart (another presentation of the T-S-D-T rule)
 
@@ -686,6 +686,8 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
   - e.g.  C major - G major - D major
   - e.g. C major - C minor - bE major
 - Chromatic modulation: key change connected with chromatic progression
+
+  - e.g. [リセット](https://youtu.be/4oenZkqzdW4?t=79 )
   - e.g. [光の中へ](https://www.youtube.com/watch?v=29t3pJd75XU)
 
 ## 6. Chromatic Musical Analysis (Part II) and Others
