@@ -147,8 +147,6 @@ tbc.
 
 ![image-20240319214826489](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319214826489.png?raw=true)
 
-  - e.g. [純白トロイメライ](https://www.youtube.com/watch?v=OnEs0dT9g8Q)
-
 - melodic minor: 12 b3 4567(ascending) , b7 b6 54 b3 21(descending) 
   - or 67123 #4 #5(ascending) , 5432176(descending) 
   - e.g. c melodic minor
@@ -721,6 +719,8 @@ Table. Modes of harmonic minor
 | **Phrygian dominant(#3)** | 1 b2 345 b6 b7       |
 | Lydian  #2                | 1 #2 3 #4 567        |
 | Super Locrian bb7         | 1 b2 b3 b4 b5 b6 bb7 |
+
+- e.g. [純白トロイメライ](https://www.youtube.com/watch?v=OnEs0dT9g8Q)
 
 **Phrygian dominant mode** is widely used in metal and jazz music (exotic, foreign flavor)
 
