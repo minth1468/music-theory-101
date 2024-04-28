@@ -145,8 +145,9 @@ tbc.
 - harmonic minor: 12 b3 45 b6 7 or 671234 #5
   - e.g. c harmonic minor
 
-
 ![image-20240319214826489](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319214826489.png?raw=true)
+
+  - e.g. [純白トロイメライ](https://www.youtube.com/watch?v=OnEs0dT9g8Q)
 
 - melodic minor: 12 b3 4567(ascending) , b7 b6 54 b3 21(descending) 
   - or 67123 #4 #5(ascending) , 5432176(descending) 
@@ -311,9 +312,9 @@ Any scale can be defined with three characteristic triads.
 Rule of thumb:
 
 - Double the bass notes
-- Use open position in lower register
-- Use close position in higher register
-  - e.g. Voicing of a F major triad
+- Use open position in the lower register
+- Use close position in the higher register
+  - e.g. Voicing of an F major triad
 
 ![image-20240326131015956](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326131015956.png?raw=true)
 
@@ -331,12 +332,12 @@ Components of a verse-chorus song: Into + Verse + Bridge(Pre-chorus or Transitio
 
 - Interlude may be replaced/consists of: solo and/or a second bridge
 
-AABA form is a basicform of music, often seen in classic and folk music.
+AABA form is a basic form of music, often seen in classic and folk music.
 - Commonly expanded to AABAABA
-- Has other forms as ABAC, ABAB', etc. 
+- Has other forms such as ABAC, ABAB', etc. 
 - e.g. [A Las Barricadas](https://www.youtube.com/watch?v=7_Pk6VjZlho) (AA'BA'A'BA'A')
 
-12 bar blues progression: songs that follows the following progression (sometimes with a ii-V-I turnaround at the end)
+12 bar blues progression: songs that follow the following progression (sometimes with a ii-V-I turnaround at the end)
 
 | I    | I    | I    | I    |
 | ---- | ---- | ---- | ---- |
