@@ -761,7 +761,7 @@ A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal 
 
 **Resolution of altered Chords**: Altered chords solves to a major/minor chord 5th below (Valt-I/i), or a major chord a semitone below (bIIalt-I, tritone substitution).
 
-**Altered chord and scale**: Chords are viewed as scales rearranged vertically in jazz music. (Altered Chord = Altered Scale)
+**Altered chord and scale**: Chords are viewed as scales rearranged vertically in jazz music. (Altered Chord = Altered Scale, see section 6.2)
 
 - e.g. C7b9b13 = 1 b2(b9) 345 b6(b13) b7 =  C Phrygian dominant (see section 6.2)
 
@@ -878,3 +878,5 @@ Figure. Characteristic chords of scales
 ### 6.3 Negative harmony
 
 tbc.
+
+[7 Levels of Reharmonization (ft. 88bit)](https://www.youtube.com/watch?v=ys0zXG_sZ4Y)
