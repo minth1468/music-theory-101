@@ -695,11 +695,68 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 
 ## 6. Chromatic Musical Analysis (Part II) and Others
 
-**Topics**: Upper chord extensions, Exotic scales, Substitute dominant chords (extended chord, altered chord), Negative harmony
+**Topics**: Upper chord extensions, Altered chords, Exotic scales, Negative harmony
 
-### 6.1 Upper chord extensions
+### 6.1 Upper chord extensions and altered chords
+ 
+[Chord extensions and alterations](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-theory/chord-extensions-alterations/)
+ 
+**Extended chords** add color tones in addition to the basic chord tones (triads and 7th chords) with 9th, 11th, and 13th notes. (following the Tertian rule)
+ 
+- The root establishes the chord tonality (CMaj7 vs DMaj7);
+- The 3rd & 7th (Guide Tones) establish the chord quality (CMaj7 vs C7 vs Cm7);
+- The 5th establishes whether the chord is diminished or augmented (Co vs Cø vs C+7). [Source](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/extensions-alterations)
+ 
+| Chord | Property | Extensions       |
+|-------|----------|------------------|
+| M7    | Major    | 9th, #11th, 13th |
+| m7    | Minor    | 9th, 11th, 13th  |
+| 7     | Dominant | 9th, #11th, 13th |
+ 
+Note: 
 
-tbc.
+1. 13th chords usually do not include the 11th in the chord.
+2. Extended chords are usually used as Major, minor, or Dominant only.
+ 
+![major-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/1-C-Major-Extensions.jpg?raw=true)
+ 
+![dom-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/7-C7-Chord-Voicings.jpg?raw=true)
+ 
+**Altered chords**: one or more notes in the diatonic chord are altered to a chromatic note (e.g. raised or lowered a semitone)， usually used to replace the dominant chord.
+
+- Often seen in Jazz context
+- Alt dominant chord: root (I) + 3rd + b5 and/or #5 (b5 is often written as #11) + b7 + b9 and/or #9, and b13.
+- An altered C7 chord is denoted as C7alt (the altered notes are usually not specified and can change according to context)
+- e.g. examples of C7alt chord
+
+![altered dominant chords(]https://hellomusictheory.com/wp-content/uploads/2020/11/altered-chords-2-1536x270.png?raw=true)
+
+Table. Upper chord alterations
+
+| Chord Proterty | Alterations           |
+|----------------|-----------------------|
+| Major          | b9, #9, #11, b13, #13 |
+| Minor          | b9, b11, #11, b13     |
+| Dominant       |  b9, #9, #11, b13     |
+
+Dominant 7#9 chord: known as the **Hendrix Chord**, used widely in funk, blues, jazz and rock.
+
+- The #9 note can be seen as a minor 3rd stacked on the major 3rd of the dominant chord. (consider C7#9 as a C blues scale played over a C7 chord)
+
+Dominant 7b9 chord: widely used in funk music (funk guitar strumming).
+
+- A dominant 7b9 chord can be seen as a diminished 7th chord stacked on the root note.
+  - e.g. A C7b9 chord is enharmonically equal to Edim7/C.
+  - Recall that the diminished 7th chord can be resolved into any note: the diminished chord can be played over any note as root note.
+  - This leads to the funk guitar strumming style: the same diminished 7th chord can be played throughout the whole chord progression.
+
+A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal to b13.
+
+**Resolution of altered Chords**: Altered chords solves to a major/minor chord 5th below (Valt-I/i), or a major chord a semitone below (bIIalt-I, tritone substitution).
+
+**Altered chord and scale**: In jazz music, chords are viewed as scales rearranged vertically.
+
+- e.g. C7b9b13 = 1 b2(b9) 345 b6(b13) b7 =  C Phrygian dominant (see section 6.2)
 
 ### 6.2 Exotic scales
 
@@ -802,10 +859,6 @@ Figure. Characteristic chords of scales
 
 ![tsse2mrtipic1](https://github.com/minth1468/music-theory-101/blob/main/assets/tsse2mrtipic1.jpg)
 
-### 6.3 Substitute dominant chords
-
-tbc.
-
-### 6.4 Negative harmony
+### 6.3 Negative harmony
 
 tbc.
