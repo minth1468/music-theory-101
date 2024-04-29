@@ -765,6 +765,12 @@ A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal 
 
 - e.g. C7b9b13 = 1 b2(b9) 345 b6(b13) b7 =  C Phrygian dominant (see section 6.2)
 
+[Music Theory Minute #1: Chord Extensions and Alterations]([https://www.youtube.com/watch?v=fzgYxTcaGGo](https://www.youtube.com/watch?v=yc7udUxD7eU&list=PL-ZQIvQFPv4JFew7HeFetA0VbnKgWzbAf&index=1))
+
+**69 chord**
+
+tbc
+
 ### 6.2 Exotic scales
 
 **Harmonic minor**
