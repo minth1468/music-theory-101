@@ -35,7 +35,7 @@ Double frequency: Same pitch of higher octave.
 - Recurrence Equation: If $f_n\times1.5>=880$ , $f_{n+1}=f_n\times 0.75$
   - Else: $f_{n+1}=f_n\times 1.5$
 
-Table. Pythagorean tuning starting with A440
+**Table. Pythagorean tuning starting with A440**
 
 | Frequency/Hz | Note Name | Frequency (In Order)/Hz | Note Name |
 | ------------ | --------- | ----------------------- | --------- |
@@ -57,7 +57,7 @@ A 446Hz is obtained after 12 iterations and is close enough to the starting freq
 
 However, the distance of the 12 pitches are not equal. To obtain a equal temperament, the Recurrence Equation should be $f_{n+1}=f_n\times2^{1/12}$ .
 
-Table. 12 tone equal temperament (12 TET) frequency table
+**Table. 12 tone equal temperament (12 TET) frequency table**
 
 | Note Name | Frequency/Hz |
 | --------- | ------------ |
@@ -77,7 +77,7 @@ Table. 12 tone equal temperament (12 TET) frequency table
 
 The hearing range of human ear is 20Hz - 20000Hz, thus all audible As can be obtained. The pitches are denoted from A0 to A9.
 
-Table. Audible frequency table of note A
+**Table. Audible frequency table of note A**
 
 | Note Name | Frequency/Hz |
 | --------- | ------------ |
@@ -204,7 +204,7 @@ Shorthand notation for intervals:
 
 - e.g. m2=minor second, M3=major third, aug4=augmented fourth, dim5=diminished fifth, P5=perfect fifth, tri=tritone
 
-Table. Interval size vs. number of half steps
+**Table. Interval size vs. number of half steps**
 
 | 1H   | 2H   | 3H   | 4H   | 5H   | 6H   | 7H   | 8H   | 9H   | 10H  | 11H  | 12H  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -218,7 +218,8 @@ Table. Interval size vs. number of half steps
 
 A **diatonic interval** is formed by notes in a diatonic scale. 
 
-Table. Diatonic intervals in the major scale: (number in the brackets denotes the starting degree of the interval)
+**Table. Diatonic intervals in the major scale: (number in the brackets denotes the starting degree of the interval)**
+
 | Numeric | Interval1            | Interval2            |
 | ------- | -------------------- | -------------------- |
 | 2nd     | m2(3, 7)             | M2(1, 2, 4, 5, 6)    |
@@ -494,7 +495,7 @@ Suspended chord (or **sus chord**) is related to the fourth species counterpoint
 
 In functional harmony, every chord serves a tonality function.
 
-Table. Harmonic function in Major and minor
+**Table. Harmonic function in Major and minor**
 
 | Function        | Major Degree | Minor Degree     |
 | --------------- | ------------ | ---------------- |
@@ -507,7 +508,7 @@ Harmonic progression usually follows the sequence of **T-S-D-T**
 - Duplication of function is allowed (e.g. T-T, S-S, D-D)
 - Omission in the sequence is allowed (e.g. T-S-T, T-D-T)
 
-Table. Typical progression loops
+**Table. Typical progression loops**
 
 | Progression                         | Functional Harmony Analysis |
 | ----------------------------------- | --------------------------- |
@@ -540,7 +541,7 @@ Harmonic flowchart (another presentation of the T-S-D-T rule)
 
 There are seven diatonic modes.
 
-Table. Diatonic modes and scales
+**Table. Diatonic modes and scales**
 
 | Name       | Property      | Scale                         |
 | ---------- | ------------- | ----------------------------- |
@@ -567,7 +568,7 @@ e.g. [7 modes on 1 Beatles song](https://www.youtube.com/watch?v=roFVo0ePOZw)
 
 **[Modal interchange](https://www.youtube.com/watch?v=1dRA28cdt5c)**: borrowing of chords from parallel modes.
 
-Table. Possible chords of all parallel modes of C major
+**Table. Possible chords of all parallel modes of C major**
 
 | Mode         | I     | II     | III    | IV     | V      | VI     | VII    |
 | ------------ | ----- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -698,34 +699,34 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 **Topics**: Upper chord extensions, Altered chords, Exotic scales, Negative harmony
 
 ### 6.1 Upper chord extensions and altered chords
- 
+
 [Chord extensions and alterations](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-theory/chord-extensions-alterations/)
- 
+
 **Extended chords** add color tones in addition to the basic chord tones (triads and 7th chords) with 9th, 11th, and 13th notes. (following the Tertian rule)
- 
+
 - The root establishes the chord tonality (CMaj7 vs DMaj7);
 - The 3rd & 7th (Guide Tones) establish the chord quality (CMaj7 vs C7 vs Cm7);
 - The 5th establishes whether the chord is diminished or augmented (Co vs Cø vs C+7). [Source](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/extensions-alterations)
- 
+
 | Chord | Property | Extensions       |
-|-------|----------|------------------|
+| ----- | -------- | ---------------- |
 | M7    | Major    | 9th, #11th, 13th |
 | m7    | Minor    | 9th, 11th, 13th  |
 | 7     | Dominant | 9th, #11th, 13th |
- 
+
 Note: 
 
 1. 13th chords usually do not include the 11th in the chord.
 2. Extended chords are usually used as Major, minor, or Dominant only.
- 
+
 - e.g. C Major chord extensions
- 
+
 ![major-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/1-C-Major-Extensions.jpg?raw=true)
 
 - e.g. C Dominant chord extensions
- 
+
 ![dom-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/7-C7-Chord-Voicings.jpg?raw=true)
- 
+
 **Altered chords**: one or more notes in the diatonic chord are altered to a chromatic note (e.g. raised or lowered a semitone)， usually used to replace the dominant chord.
 
 - Often seen in Jazz context
@@ -735,13 +736,13 @@ Note:
 
 ![altered dominant chords](https://hellomusictheory.com/wp-content/uploads/2020/11/altered-chords-2-1536x270.png?raw=true)
 
-Table. Upper chord alterations
+**Table. Upper chord alterations**
 
 | Chord Proterty | Alterations           |
-|----------------|-----------------------|
+| -------------- | --------------------- |
 | Major          | b9, #9, #11, b13, #13 |
 | Minor          | b9, b11, #11, b13     |
-| Dominant       |  b9, #9, #11, b13     |
+| Dominant       | b9, #9, #11, b13      |
 
 Dominant 7#9 chord: known as the **Hendrix Chord**, used widely in funk, blues, jazz and rock.
 
@@ -770,7 +771,8 @@ A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal 
 
 ![image-20240328164409558](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328164409558.png?raw=true)
 
-Table. Modes of harmonic minor
+**Table. Modes of harmonic minor**
+
 | Name                      | Scale                |
 | ------------------------- | -------------------- |
 | Harmonic minor            | 12 b3 45 b6 7        |
@@ -804,7 +806,8 @@ Table. Modes of harmonic minor
 
 ![image-20240328165356504](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328165356504.png?raw=true)
 
-Table. Modes of melodic minor
+**Table. Modes of melodic minor**
+
 | Name                               | Scale               |
 | ---------------------------------- | ------------------- |
 | Melodic minor (Jazz minor)         | 12 b3 4567          |
@@ -822,7 +825,8 @@ Table. Modes of melodic minor
 
 ![image-20240328170302443](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328170302443.png?raw=true)
 
-Table. Modes of harmonic major 
+**Table. Modes of harmonic major** 
+
 | Name                              | Scale               |
 | --------------------------------- | ------------------- |
 | Harmonic major                    | 12345 b6 7          |
@@ -844,7 +848,7 @@ Table. Modes of harmonic major
 
 ![image-20240328201125863](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328201125863.png?raw=true)
 
-Table. Modes of double harmonic major 
+**Table. Modes of double harmonic major** 
 
 | Name                      | Scale                |
 | ------------------------- | -------------------- |
