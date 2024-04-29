@@ -753,7 +753,7 @@ Dominant 7#9 chord: known as the **Hendrix Chord**, used widely in funk, blues, 
 Dominant 7b9 chord: widely used in funk music (funk guitar strumming).
 
 - A dominant 7b9 chord can be seen as a diminished 7th chord stacked on the root note.
-  - e.g. A C7b9 chord is enharmonically equal to Edim7/C.
+  - e.g. A C7b9 chord is enharmonically equal to Edim7/C. (**Slash chords** can be seen as a voicing of extended chords.)
   - Recall that the diminished 7th chord can be resolved into any note: the diminished chord can be played over any note (serving as root note).
   - This leads to the funk guitar strumming style: the same diminished 7th chord can be played throughout the whole chord progression.
 
