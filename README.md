@@ -733,7 +733,7 @@ Note:
 - An altered C7 chord is denoted as C7alt (the altered notes are usually not specified and can change according to context)
 - e.g. examples of C7alt chord
 
-![altered dominant chords(]https://hellomusictheory.com/wp-content/uploads/2020/11/altered-chords-2-1536x270.png?raw=true)
+![altered dominant chords](https://hellomusictheory.com/wp-content/uploads/2020/11/altered-chords-2-1536x270.png?raw=true)
 
 Table. Upper chord alterations
 
