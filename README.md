@@ -718,7 +718,11 @@ Note:
 1. 13th chords usually do not include the 11th in the chord.
 2. Extended chords are usually used as Major, minor, or Dominant only.
  
+- e.g. C Major chord extensions
+ 
 ![major-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/1-C-Major-Extensions.jpg?raw=true)
+
+- e.g. C Dominant chord extensions
  
 ![dom-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/7-C7-Chord-Voicings.jpg?raw=true)
  
