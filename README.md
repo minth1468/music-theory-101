@@ -704,6 +704,7 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
 
 **Extended chords** add color tones in addition to the basic chord tones (triads and 7th chords) with 9th, 11th, and 13th notes. (following the Tertian rule)
 
+- For a chord to be called extended chord it must have a 3rd and 7th tone;
 - The root establishes the chord tonality (CMaj7 vs DMaj7);
 - The 3rd & 7th (Guide Tones) establish the chord quality (CMaj7 vs C7 vs Cm7);
 - The 5th establishes whether the chord is diminished or augmented (Co vs Cø vs C+7). [Source](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/extensions-alterations)
