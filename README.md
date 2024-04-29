@@ -269,12 +269,12 @@ A **triad** is a three note chord consisting of root+fifth+third
 - The **root note** of a chord is the tonic note in the chord
   - the lowest note in the chord is the **bass note**
 
-| Upper Interval | Lower Interval | Chord Symbol (Modern) | Chord Symbol (Classical) |      |
-| -------------- | -------------- | --------------------- | ------------------------ | ---- |
-| m3             | M3             | C                     | C                        |      |
-| M3             | m3             | Cm                    | c                        |      |
-| m3             | m3             | Cdim/C-               | C°                       |      |
-| M3             | M3             | Caug                  | C+                       |      |
+| Upper Interval | Lower Interval | Chord Symbol (Modern) | Chord Symbol (Classical) | 
+| -------------- | -------------- | --------------------- | ------------------------ |
+| m3             | M3             | C                     | C                        |
+| M3             | m3             | Cm                    | c                        |
+| m3             | m3             | Cdim/C-               | C°                       |
+| M3             | M3             | Caug                  | C+                       |
 
 ### 3.2 Diatonic chords and Roman numerals
 
