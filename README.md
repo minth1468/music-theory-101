@@ -729,6 +729,7 @@ Note:
 
 **Altered chords**: one or more notes in the diatonic chord are altered to a chromatic note (e.g. raised or lowered a semitone)， usually used to replace the dominant chord.
 
+- Borrowed chords (modal interchange), secondary dominant chords, and substituted dominant chords (tritone substitution) can all be seen as altered chords.
 - Often seen in Jazz context
 - Alt dominant chord: root (I) + 3rd + b5 and/or #5 (b5 is often written as #11) + b7 + b9 and/or #9, and b13.
 - An altered C7 chord is denoted as C7alt (the altered notes are usually not specified and can change according to context)
@@ -752,14 +753,14 @@ Dominant 7b9 chord: widely used in funk music (funk guitar strumming).
 
 - A dominant 7b9 chord can be seen as a diminished 7th chord stacked on the root note.
   - e.g. A C7b9 chord is enharmonically equal to Edim7/C.
-  - Recall that the diminished 7th chord can be resolved into any note: the diminished chord can be played over any note as root note.
+  - Recall that the diminished 7th chord can be resolved into any note: the diminished chord can be played over any note (serving as root note).
   - This leads to the funk guitar strumming style: the same diminished 7th chord can be played throughout the whole chord progression.
 
 A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal to b13.
 
 **Resolution of altered Chords**: Altered chords solves to a major/minor chord 5th below (Valt-I/i), or a major chord a semitone below (bIIalt-I, tritone substitution).
 
-**Altered chord and scale**: In jazz music, chords are viewed as scales rearranged vertically.
+**Altered chord and scale**: Chords are viewed as scales rearranged vertically in jazz music. (Altered Chord = Altered Scale)
 
 - e.g. C7b9b13 = 1 b2(b9) 345 b6(b13) b7 =  C Phrygian dominant (see section 6.2)
 
