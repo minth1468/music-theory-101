@@ -1,42 +1,40 @@
-# Music theory 101
-
-## References
-
+# Things to Check Out First
+ 
 - [Music Theory Tier List](https://www.youtube.com/watch?v=ItsMmqTOgKo)
-
+ 
   ![image-20240318185437005](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240318185437005.png?raw=true)
-
+ 
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c)
-
+ 
 - [Download Musescore](https://musescore.org/en)
-
-
-
-## 0. Basics
-
+ 
+# 0. Temperament and Musical Notations
+ 
 **Topics**: Temperament, Harmonic series, Clefs, Rhyme, Articulations, Dynamics
-
-### 0.1 Temperament
-
+ 
+## 0.1 Temperament
+ 
+### Pythagorean Tuning
+ 
 The frequency of the sound produced by a string is determined by the length, tension and density of the string:
-
+ 
 ![7e738f3975fc8ac6028f328bc3e64bc93789a827](https://github.com/minth1468/music-theory-101/blob/main/assets/7e738f3975fc8ac6028f328bc3e64bc93789a827.svg?raw=true)
-
+ 
 Double frequency: Same pitch of higher octave.
-
+ 
 3/2 frequency: A new pitch which sounds well with the original pitch. (Perfect fifth)
-
+ 
 **Concert pitch**: [A = 440Hz](https://onlinetonegenerator.com/?freq=440)
-
+ 
 - [History on the pitch standard](https://youtu.be/EKTZ151yLnk?t=363)
-
+ 
 **Pythagorean tuning**: Obtaining possible pitches between 440Hz and 880Hz by applying 2/3 string length (3/2 frequency)
-
+ 
 - Recurrence Equation: If $f_n\times1.5>=880$ , $f_{n+1}=f_n\times 0.75$
   - Else: $f_{n+1}=f_n\times 1.5$
-
+ 
 **Table. Pythagorean tuning starting with A440**
-
+ 
 | Frequency/Hz | Note Name | Frequency (In Order)/Hz | Note Name |
 | ------------ | --------- | ----------------------- | --------- |
 | 440.00       | A         | 440.00                  | A         |
@@ -52,13 +50,15 @@ Double frequency: Same pitch of higher octave.
 | 792.89       | G         | 792.89                  | G         |
 | 594.67       | D         | 835.31                  | Ab        |
 | 446.00       | ~A        | 446.00                  | ~A        |
-
+ 
 A 446Hz is obtained after 12 iterations and is close enough to the starting frequency (440Hz), thus an Octave can be divided into 12 pitches.
-
-However, the distance of the 12 pitches are not equal. To obtain a equal temperament, the Recurrence Equation should be $f_{n+1}=f_n\times2^{1/12}$ .
-
+ 
+### 12 TET
+ 
+The distances between the 12 pitches obtained by Pythagorean tuning are not equal. To obtain a equal temperament, the Recurrence Equation should be $f_{n+1}=f_n\times2^{1/12}$ .
+ 
 **Table. 12 tone equal temperament (12 TET) frequency table**
-
+ 
 | Note Name | Frequency/Hz |
 | --------- | ------------ |
 | A         | 440.00       |
@@ -74,11 +74,13 @@ However, the distance of the 12 pitches are not equal. To obtain a equal tempera
 | G         | 783.99       |
 | Ab        | 830.61       |
 | A         | 880.00       |
-
+ 
+### Frequencies on the piano
+ 
 The hearing range of human ear is 20Hz - 20000Hz, thus all audible As can be obtained. The pitches are denoted from A0 to A9.
-
+ 
 **Table. Audible frequency table of note A**
-
+ 
 | Note Name | Frequency/Hz |
 | --------- | ------------ |
 | A0        | 27.5         |
@@ -91,121 +93,127 @@ The hearing range of human ear is 20Hz - 20000Hz, thus all audible As can be obt
 | A7        | 3520         |
 | A8        | 7040         |
 | A9        | 14080        |
-
+ 
 Combining 12 TET and all the A frequencies above, all 88 frequencies of the piano can be obtained.
-
+ 
 - Piano sound range: A0-C8
-
-### 0.2 Harmonic series
-
+ 
+## 0.2 Overtone and Harmonic series
+ 
 A piano can be differentiated from a violin because they consists of different overtone (harmonic composition).
-
+ 
 The nth harmonics of a fundamental frequency $f_1$ is $f_n=n\times f_1$
-
+ 
 [Sound synthesis](https://youtu.be/Y7TesKMSE74?t=416): synthesize sounds of any instrument/voice with sine wave oscillators.
-
+ 
 The **Harmonic Serie**s is the harmonics equation above expressed in the form of musical notation. (Notice the frequencies of the notes equal the multiples of 55Hz)
-
+ 
 ![image-20240319151707899](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319151707899.png?raw=true)
-
-### 0.3 Names of clefs
-
+ 
+## 0.3 Names of Clefs
+ 
 G clef, F clef, and C clef: name implies note name at the starting stroke of the corresponding clef.
-
+ 
 - e.g. G clef, F clef, and C clef
-
+ 
 ![image-20240319142835164](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319142835164.png?raw=true)
-
-### 0.4 Musical notations
-
+ 
+## 0.4 Musical Notations
+ 
 Rhyme, Articulations, Dynamics
-
+ 
 tbc.
-
-## 1. Scales and Keys
-
+ 
+# 1. Scales and Keys
+ 
 **Topics**: Major, Minor, Key signatures, Circle of fifth
-
-### 1.1 Scales
-
+ 
+## 1.1 Scales
+ 
+### Major and Minor Scales
+ 
 **Major**: WWH-WWWH, or denoted 1234567 (which is a standard reference of all other scales). 
-
+ 
 - Note: W and H stand for Whole step and Half step respectively. (A half step equals 1/12 of an octave and a whole step equals two half steps)
-
+ 
 - e.g. C major
-
+ 
 ![image-20240319143813191](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319143813191.png?raw=true)
-
+ 
 **Minor**: 12 b3 45 b6 b7 or 6712345
-
+ 
 - e.g. c minor
-
+ 
 ![image-20240319143930169](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319143930169.png?raw=true)
-
+ 
 - harmonic minor: 12 b3 45 b6 7 or 671234 #5
   - e.g. c harmonic minor
-
+ 
 ![image-20240319214826489](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319214826489.png?raw=true)
-
+ 
 - melodic minor: 12 b3 4567(ascending) , b7 b6 54 b3 21(descending) 
   - or 67123 #4 #5(ascending) , 5432176(descending) 
   - e.g. c melodic minor
-
+ 
 ![image-20240319214836379](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319214836379.png?raw=true)
-
+ 
+### Relative, Parallel Key and Degree Names
+ 
 **Relative key**: scales sharing the same notes
-
+ 
 - e.g. C major and a minor
-
+ 
 **Parallel key**: scales with the  starting note
-
+ 
 - e.g. C major and c minor
-
-Scale degree names
-
+ 
+**Scale degree names**
+ 
 ![scale-degree-names](https://github.com/minth1468/music-theory-101/blob/main/assets/scale-degree-names.svg?raw=true)
-
+ 
 ![scale-degrees-names-above-and-below](https://github.com/minth1468/music-theory-101/blob/main/assets/scale-degrees-names-above-and-below.svg?raw=true)
-
-### 1.2 Key signatures
-
+ 
+## 1.2 Key Signatures
+ 
 Recurrence Equation: For any major,
-
+ 
 - sharp fourth degree -> obtain new major starting from fifth degree.
   - e.g. #F in C major to get G major.
 - flat seventh degree -> obtain new major starting from fourth degree.
   - e.g. bB in C major to get F major.
-
-
-### 1.3 Circle of fifth
-
+ 
+ 
+## 1.3 Circle of Fifth
+ 
 ![600px-Circle_of_fifths_deluxe_4.svg](https://github.com/minth1468/music-theory-101/blob/main/assets/600px-Circle_of_fifths_deluxe_4.svg.png?raw=true)
-
+ 
 - How to remember COF: CF+b(BEADG)+BEADG
 - The sequence of sharp(#) notes: FCGDAEB or (fa do so re la mi ti)
   - sequence of flat(b) notes: BEADGCF
-
-
-
-## 2. Intervals
-
+ 
+ 
+ 
+# 2. Intervals
+ 
 **Topics**: Intervals, Pentatonic scale, Blues scale
-
-### 2.1 Intervals
-
+ 
+## 2.1 Intervals
+ 
+### Intervals Overview
+ 
 **Interval** measures distance between pitches. 
-
+ 
 - Numeric size (nth) + Quality (diminished, minor, major, augmented) or (diminished, perfect, augmented)
 - Numeric size means how much two notes apart in a given context scale.
 - Diminished, minor, major, augmented: 2nd, 3rd, 6th, 7th
 - Diminished, perfect, augmented: 1(unison), 4th, 5th, 8ve
-
+ 
 Shorthand notation for intervals: 
-
+ 
 - e.g. m2=minor second, M3=major third, aug4=augmented fourth, dim5=diminished fifth, P5=perfect fifth, tri=tritone
-
+ 
 **Table. Interval size vs. number of half steps**
-
+ 
 | 1H   | 2H   | 3H   | 4H   | 5H   | 6H   | 7H   | 8H   | 9H   | 10H  | 11H  | 12H  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | m2   | M2   | A2   |      |      |      |      |      |      |      |      |      |
@@ -215,11 +223,13 @@ Shorthand notation for intervals:
 |      |      |      |      |      |      |      | m6   | M6   | A6   |      |      |
 |      |      |      |      |      |      |      |      | d7   | m7   | M7   |      |
 |      |      |      |      |      |      |      |      |      |      |      | P8   |
-
+ 
+### Diatonic Interval
+ 
 A **diatonic interval** is formed by notes in a diatonic scale. 
-
+ 
 **Table. Diatonic intervals in the major scale: (number in the brackets denotes the starting degree of the interval)**
-
+ 
 | Numeric | Interval1            | Interval2            |
 | ------- | -------------------- | -------------------- |
 | 2nd     | m2(3, 7)             | M2(1, 2, 4, 5, 6)    |
@@ -228,129 +238,135 @@ A **diatonic interval** is formed by notes in a diatonic scale.
 | 5th     | tri(7)               | p5(1, 2, 3, 4, 5, 6) |
 | 6th     | m6(3, 6, 7)          | M6(1, 2, 4, 5)       |
 | 7th     | m7(2, 3, 5, 6, 7)    | M7(1, 4)             |
-
+ 
+### Inversion of Intervals
+ 
 **Inversion** of intervals follows the following rules.
-
+ 
 ![image-20240325225246300](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240325225246300.png?raw=true)
-
-### 2.2 Pentatonic scale, Blues scale
-
+ 
+## 2.2 Pentatonic Scale, Blues Scale
+ 
+### Pentatonic scale
+ 
 **Major pentatonic scale**: 12356. 
-
+ 
 - e.g. C major pentatonic scale
-
+ 
 ![image-20240319222558412](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319222558412.png?raw=true)
-
+ 
 **Minor pentatonic scale**: 1 b3 45 b7. or 61235 
-
+ 
 - e.g. c minor pentatonic scale
-
+ 
 ![image-20240319222633152](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319222633152.png?raw=true)
-
+ 
+### Blues scale
+ 
 (Minor) **blues scale**: 1 b3 4 #4 5 b7. or 612 #2 35 
-
+ 
 - e.g. c blues scale
-
+ 
 ![image-20240319222738266](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240319222738266.png?raw=true)
-
+ 
 - The #2 is called the blue note, and is usually performed lower than standard pitch.
 - Major blues scale is less used in morden context and is most often used in ragtime and blues music.
-
-## 3. Triads and Simple Tonal Musical Analysis
-
+ 
+# 3. Triads and Tonal Musical Analysis (Part I)
+ 
 **Topics**: Triads, Roman numerals, Inversions, Voicing, Song structure, Cadences
-
-### 3.1 Triads
-
+ 
+## 3.1 Triads
+ 
 A **chord** follows the Tertian rule(i.e. constructed from the intervals of thirds)
-
+ 
 A **triad** is a three note chord consisting of root+fifth+third
-
+ 
 - The **root note** of a chord is the tonic note in the chord
   - the lowest note in the chord is the **bass note**
-
+ 
 | Upper Interval | Lower Interval | Chord Symbol (Modern) | Chord Symbol (Classical) | 
 | -------------- | -------------- | --------------------- | ------------------------ |
 | m3             | M3             | C                     | C                        |
 | M3             | m3             | Cm                    | c                        |
 | m3             | m3             | Cdim/C-               | C°                       |
 | M3             | M3             | Caug                  | C+                       |
-
-### 3.2 Diatonic chords and Roman numerals
-
+ 
+## 3.2 Diatonic Chords and Roman Numerals
+ 
 Chords found in scales are called **diatonic chords**.
-
+ 
 The roman numeral is a way to denote diatonic  chords in a scale. (compare with 1234567 in major)
-
+ 
 - e.g. Roman numeral of C major
-
+ 
 ![Roman-numerals-dia-chords-in-major](https://github.com/minth1468/music-theory-101/blob/main/assets/Roman-numerals-dia-chords-in-major.svg?raw=true)
-
+ 
 Any scale can be defined with three characteristic triads.
-
+ 
 - Major: I, IV, V
 - Minor: i, vi, v
-
-### 3.3 Inversion
-
+ 
+## 3.3 Inversion
+ 
 - e.g. Inversions of a C major triad in C major
   - C6: first inversion, C is the sixth note above E (thus 6)
   - C64: second inversion, E, C are the sixth and fourth note above E (thus 64)
   - C/E: C chord with root note of E (called **Slash Chords**, modern symbol)
-
+ 
 ![image-20240324220704044](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240324220704044.png?raw=true)
-
-### 3.4 Voicing
-
+ 
+## 3.4 Voicing
+ 
 **Voicing**: placement of notes in a chord structure.
-
+ 
 - Open position: notes with spacing >P4
 - Close position: notes with spacing <=P4
 - Doubling: a note that is duplicated in different octaves
-
+ 
 Rule of thumb:
-
+ 
 - Double the bass notes
 - Use open position in the lower register
 - Use close position in the higher register
   - e.g. Voicing of an F major triad
-
+ 
 ![image-20240326131015956](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326131015956.png?raw=true)
-
-### 3.5 Song structure
-
+ 
+## 3.5 Song Structure
+ 
 [Every type of Song Structure EXPLAINED](https://www.youtube.com/watch?v=SDJwg1JoPtY)
-
+ 
 Common song structures: **Verse-chorus form** ,  **AABA form**, and **12 bar blues**
-
+ 
 Components of a verse-chorus song: Into + Verse + Bridge(Pre-chorus or Transition) + Chorus(Refrain) + Interlude + Verse + Bridge + Chorus + Outro
-
+ 
 - The chorus is the highlight of the song
 - Verse is often less tense than the chorus
 - Bridge comes before the chorus and usually serves as a energy build-up
-
+ 
 - Interlude may be replaced/consists of: solo and/or a second bridge
-
+ 
 AABA form is a basic form of music, often seen in classic and folk music.
 - Commonly expanded to AABAABA
 - Has other forms such as ABAC, ABAB', etc. 
 - e.g. [A Las Barricadas](https://www.youtube.com/watch?v=7_Pk6VjZlho) (AA'BA'A'BA'A')
-
+ 
 12 bar blues progression: songs that follow the following progression (sometimes with a ii-V-I turnaround at the end)
-
+ 
 | I    | I    | I    | I    |
 | ---- | ---- | ---- | ---- |
 | IV   | IV   | I    | I    |
 | V    | IV   | I    | I    |
-
+ 
 - e.g. [The Lazy Girl Blues](https://www.youtube.com/watch?v=wwMvbW0R8Uo)
-
+ 
 - e.g. [バカはバカのごとく現れる](https://www.youtube.com/watch?v=NPY4sd9HtZI)
-
-### 3.6 Cadence
-
+ 
+## 3.6 Cadence
+ 
 A **cadence** marks the end of a musical section. (e.g. at the end of a verse/chorus)
-
+ 
 - Authentic Cadence (AC): V7-I
 - Plagal Cadence (PC): IV-I
   - Often used in religious context
@@ -362,17 +378,17 @@ A **cadence** marks the end of a musical section. (e.g. at the end of a verse/ch
   - Bass note: 5-1, highest note: 3-2-1
   - Used in classical music
   - e.g. K64 in C major
-
+ 
 ![image-20240326143319429](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326143319429.png?raw=true)
-
-## 4. Seventh chords and Tonal Musical Analysis
-
+ 
+# 4. Seventh chords and Tonal Musical Analysis (Part II)
+ 
 **Topics**: Seventh chords, Resolution, Voice leading,  Functional harmony
-
-### 4.1 Seventh chords
-
+ 
+## 4.1 Seventh Chords
+ 
 Seventh chord: triad+seventh
-
+ 
 | Triad | 7th Interval | Chord Symbol                | Chord Name          |
 | ----- | ------------ | --------------------------- | ------------------- |
 | M     | M7           | Cmaj7/CM7                   | major 7th           |
@@ -382,134 +398,140 @@ Seventh chord: triad+seventh
 | m     | M7           | CmM7                        | minor major 7th     |
 | dim   | dim7         | C°7/Cm(b7)b5                | diminished 7th      |
 | Aug   | M7           | Caug$^{\text{maj7}}$ / C+M7 | augmented major 7th |
-
-### 4.2 Diatonic seventh chords
-
+ 
+## 4.2 Diatonic Seventh Chords
+ 
 - e.g. Diatonic seventh chords of C major
-
+ 
 ![image-20240326140447757](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326140447757.png?raw=true)
-
+ 
 - e.g. Diatonic seventh chords of C minor (not commonly used)
   - Notice the fifth degree of C minor is a Gm7 instead of a G7, which renders the V7-i progression impossible
-
+ 
 ![image-20240326140736387](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326140736387.png?raw=true)
-
+ 
 - e.g. Diatonic seventh chords of C (partially) harmonic minor (commonly used)
-
+ 
   - In the G7 chord and  Bm(b7)b5 chord the 7th degree is raised
   - The 7th degree stays the same in the rest of the chords (thus partially) 
-
+ 
 ![image-20240326141241157](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326141241157.png?raw=true)
-
-### 4.3 Inversion of 7th chords
-
+ 
+## 4.3 Inversion of 7th Chords
+ 
 - e.g. Inversions of a C major 7th in C major
-
+ 
 ![image-20240326225118242](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326225118242.png?raw=true)
-
+ 
 [Every possible Chord Symbol EXPLAINED](https://www.youtube.com/watch?v=aMLdWrZqwLg)
-
-### 4.4 Resolution
-
+ 
+## 4.4 Resolution
+ 
 **Resolution** is the move of a note or chord from dissonance to a consonance
-
+ 
 - Tension -> release, unstable -> stable
 - Dissonance: usually refers to half step or tritone
-
+ 
 Resolution of intervals:
-
+ 
 - Augmented intervals are resolved by moving outwards
-
+ 
 - Diminished intervals are resolved by moving inwards
-
+ 
   - e.g. resolution of A4 and d5 intervals (both of which are tritones)
-
+ 
 ![image-20240326152132924](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152132924.png?raw=true)
-
+ 
 Resolution of dominant 7ths
-
+ 
 - The 3rd and 7th degree of the dominant 7th forms a dim5 interval -> resolved by moving inwards
 - Resolution of a V7 chord leads to a I tonic triad (V7-I)
   - e.g. resolution of G7 (B->C, F->E)
-
+ 
 ![image-20240326152521437](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152521437.png?raw=true)
-
+ 
 Resolution of half-diminished 7ths
-
+ 
 - The root and 3th degree of the half-diminished 7th forms a dim5 interval -> resolved by moving inwards
 - Resolution of a viim7b5 chord leads to a I tonic triad (viim7b5-I)
   - e.g. resolution of Bm7b5 (B->C, F->E, )
-
+ 
 ![image-20240326152934971](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326152934971.png?raw=true)
-
-### 4.5 Voice leading
-
+ 
+## 4.5 Voice Leading
+ 
+### Voice Leading Overview
+ 
 **Voice leading** is a technique of connecting chord progression with individual melodic lines (instead of chords themselves)
-
+ 
 Principles of voice leading:
-
+ 
 - Move each voice the shortest distance possible
 - Avoid voice crossing
 - Avoid parallel fifths and octaves
   - e.g. Voice leading of a IV-V-iii-vi progression in C major
-
+ 
 ![image-20240326165847953](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326165847953.png?raw=true)
-
+ 
 - Note 1: the fifth of a triad/7th can be omitted in voice leading as it does not imply the characteristic of the chord
 - Note 2: a common 4 part voicing structure is a SATB choir. (S-soprano, A-alto, T-tenor and B-bass)
-
+ 
 [How to Harmonize a Melody (Modern 4 part voice leading)](https://www.youtube.com/watch?v=TTNhx2ZdWdI)
-
+ 
+### Counterpoint
+ 
 **Counterpoint** exists before voice leading and is the relationship between two or more musical lines. (i.e. note against note)
-
+ 
 - The permitted intervals between the lines are: m2/M2, m3/M3, P5, m6/M6, unison/8ve
 - The line should move as little as possible (<=p4), counter move M2 after big jump 
 - [Other rules to consider](https://en.wikipedia.org/wiki/Counterpoint#Considerations_for_all_species)
   - e.g. [An example of third species counterpoint](https://en.wikipedia.org/wiki/Counterpoint#Third_species)
-
+ 
 ![6wlnlm82](https://github.com/minth1468/music-theory-101/blob/main/assets/6wlnlm82.png?raw=true)
-
+ 
   - e.g. [An example of fourth species counterpoint](https://en.wikipedia.org/wiki/Counterpoint#Fourth_species) (Permitted dissonance if caused by suspended notes and resolved immediately)
-
+ 
 ![azgcb4rk](https://github.com/minth1468/music-theory-101/blob/main/assets/azgcb4rk.png?raw=true)
-
+ 
+### Suspended Chord
+ 
 Suspended chord (or **sus chord**) is related to the fourth species counterpoint.
 - The third of the chord is omitted and replaced with a P4 or a M2, denoted sus4 and sus2.
   - e.g. Csus4 and Csus2 chord
-
+ 
     ![image-20240326180835542](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326180835542.png?raw=true)
-
+ 
   - e.g. A suspended V7-I resolution with a Isus4 chord
-  
+ 
   ![image-20240326181235537](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240326181235537.png?raw=true)
-
+ 
 - Modern usage of suspended chords (in Jazz/Pop, etc.  music) does not necessarily involve suspended resolution (i.e. sus chords are used to add color to chords) 
-  - e.g. In popular music the IV/5 chord (or V9sus4) often substitutes the V7 chord
-  
+  - e.g. In popular music the IV/5 chord (or V9sus4) often substitutes the V7 chord (see section 6.1)
+ 
   ![image-20240329140049357](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240329140049357.png?raw=true)
-
-
+ 
+ 
 [Example of voice leading in pop music](https://www.bilibili.com/video/BV1Hr4y127dF?t=59.6).
-
-### 4.6 Functional harmony
-
+ 
+## 4.6 Functional Harmony
+ 
 In functional harmony, every chord serves a tonality function.
-
+ 
 **Table. Harmonic function in Major and minor**
-
+ 
 | Function        | Major Degree | Minor Degree     |
 | --------------- | ------------ | ---------------- |
 | T (tonic)       | I, iii, vi   | i, (VII-)III, VI |
 | S (subdominant) | ii, IV       | ii°, iv          |
 | D (Dominant)    | V7, vii°     | V7, vii°         |
-
+ 
 Harmonic progression usually follows the sequence of **T-S-D-T**
-
+ 
 - Duplication of function is allowed (e.g. T-T, S-S, D-D)
 - Omission in the sequence is allowed (e.g. T-S-T, T-D-T)
-
+ 
 **Table. Typical progression loops**
-
+ 
 | Progression                         | Functional Harmony Analysis |
 | ----------------------------------- | --------------------------- |
 | COF progression (1-4-7-3-6-2-5-1)   | T-S-D-T-T-S-D-T             |
@@ -519,30 +541,30 @@ Harmonic progression usually follows the sequence of **T-S-D-T**
 | 1-6-4-5                             | T-T-S-D                     |
 | 4-5-6 (6-7-1 in minor)              | T-D-T                       |
 | 4-5-3-6-2-5-1                       | S-D-T-T-S-D-T               |
-
+ 
 Harmonic flowchart (another presentation of the T-S-D-T rule)
-
+ 
 ![harmony-function-diagram-major](https://github.com/minth1468/music-theory-101/blob/main/assets/harmony-function-diagram-major.svg?raw=true)
-
+ 
 ![harmony-function-diagram-minor](https://github.com/minth1468/music-theory-101/blob/main/assets/harmony-function-diagram-minor.svg?raw=true)
-
+ 
 [Song examples with different chord progressions](https://www.youtube.com/playlist?list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
-
-## 5. Chromatic Musical Analysis (Part I)
-
+ 
+# 5. Chromatic Musical Analysis (Part I)
+ 
 **Topics**: Modes, Modal interchange, Tritone substitution, Secondary dominant/diminished chords, Modulation
-
-### 5.1 Modes
-
+ 
+## 5.1 Modes
+ 
 **Diatonic mode**: any scale that
-
+ 
 - has seven notes
 - follows a step sequence of WWH-WWWH
-
+ 
 There are seven diatonic modes.
-
+ 
 **Table. Diatonic modes and scales**
-
+ 
 | Name       | Property      | Scale                         |
 | ---------- | ------------- | ----------------------------- |
 | Ionian     | Major         | 1234567                       |
@@ -552,24 +574,24 @@ There are seven diatonic modes.
 | Mixolydian | Ionian b7     | 123456 b7 or 5671234          |
 | Aeolian    | Minor         | 12 b3 45 b6 b7 or 6712345     |
 | Locrian    | Aeolian b2 b5 | 1 b2 b3 4 b5 b6 b7 or 7123456 |
-
+ 
 e.g. [7 modes on 1 Beatles song](https://www.youtube.com/watch?v=roFVo0ePOZw)
-
+ 
 - D Dorian has the same notes as C major, but has different tonal center.
   - D Dorian resolves to D while C major resolves to C.
-
+ 
 - Bright to Darkest:
   - Lydian - Ionian - Mixolydian - Dorian - Aeolian - Phrygian - Locrian
   - Lydian, Ionian, and Mixolydian are considered as major scales with a major tonic triad
   - Mixolydian, Dorian, Aeolian, and Phrygian are are considered as minor scales with a minor tonic triad
   - Locrian has a diminished tonic triad
-
-### 5.2 Modal interchange
-
+ 
+## 5.2 Modal Interchange
+ 
 **[Modal interchange](https://www.youtube.com/watch?v=1dRA28cdt5c)**: borrowing of chords from parallel modes.
-
+ 
 **Table. Possible chords of all parallel modes of C major**
-
+ 
 | Mode         | I     | II     | III    | IV     | V      | VI     | VII    |
 | ------------ | ----- | ------ | ------ | ------ | ------ | ------ | ------ |
 | C Ionian     | Cmaj7 | Dm7    | Em7    | Fmaj7  | G7     | Am7    | Bm7b5  |
@@ -579,208 +601,300 @@ e.g. [7 modes on 1 Beatles song](https://www.youtube.com/watch?v=roFVo0ePOZw)
 | C Mixolydian | C7    | Dm7    | Em7b5  | Fmaj7  | Gm7    | Am7    | bBmaj7 |
 | C Aeolian    | Cm7   | Dm7b5  | bEmaj7 | Fm7    | Gm7    | bAmaj7 | bB7    |
 | C Locrian    | Cm7b5 | bDmaj7 | bEm7   | Fm7    | bGmaj7 | bA7    | bBm7   |
-
+ 
 **Mario cadence**: bVI-bVII-I progression with bVI and bVII borrowed from parallel Aeolian
-
+ 
 - e.g. [Super Mario Bros. Music - Level Complete](https://www.youtube.com/watch?v=3BsBXp6VkvU)
 - e.g. [Butter-Fly (guitar cover with chords)](https://www.youtube.com/watch?v=M0puITrUCms)
-
+ 
 **Picardy third** or Picardy cadence: a major tonic chord borrowed at the end of a musical section that is either modal or in a minor key.
-
+ 
 - e.g. Raise third in Am to obtain A (in a minor)
 - e.g. [ライアーダンサー](https://www.youtube.com/watch?v=UHbmkxv-874)
 - e.g. [アヤノの幸福理論](https://www.youtube.com/watch?v=pLYKKC-EpjA) (Picardy third + DC)
-
+ 
 **Neapolitan six**
-
+ 
 - A bIIM7 chord borrowed from parallel Phrygian scale
 - Usually used in first inversion (denoted N6)
 - Usage 1: substitute ii in ii-V-I progression (N6-V-I)
   - e.g. N6 in C major
-
+ 
    ![image-20240328155122869](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328155122869.png?raw=true)
-
+ 
 - Usage 2: modulate down half step
-
-### 5.3 Tritone substitution
-
+ 
+## 5.3 Tritone Substitution
+ 
 **[Tritone substitution](https://www.youtube.com/watch?v=aLdqLjA0NHE)**: substituting the V7 chord in a V7-I progression with a bII7 chord.
-
+ 
 - The core of V7-1 progression is the resolution of the tritone existing in V7 (e.g. F, B in G7)
 - The inversion of tritone is still a tritone (e.g. F, B and B, F)
 - Thus a new dominant 7th based on the inverted tritone (bII7) has the same tension as V7 (e.g. bD7 and G7)
 - Denoted bII7 or bV7/V
   - e.g. Tritone substitution in C major (notice the highlighted tritones)
-
+ 
 ![image-20240327131055487](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240327131055487.png?raw=true)
-
+ 
 **Italian 6th**/ **German 6th**/ **French 6th**: tritone substitution is usually notated as augmented 6th in classical music context.
-
+ 
 - Italian sixth (It+6) enharmonically = bD7 without 5th
 - German sixth (Gr+6) enharmonically = bD7
 - French sixth (Fr+6) enharmonically = bD7b5
-
+ 
 ![image-20240327133729165](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240327133729165.png?raw=true)
-
+ 
 **Related ii chords**: in a ii7-V7-I progression
-
+ 
 - V7 can be substituted with bII7
 - ii7 can be substituted with bvi7 (related ii7 chord of bII7)
-
-### 5.4 Secondary dominant/diminished chords
-
+ 
+## 5.4 Secondary Dominant/diminished Chords
+ 
 Tonicization:  treat any chord like a tonic by applying a V7-I progression.
-
+ 
 **Secondary dominant**: a V or V7 chord that resolves to a tonicized chord.
-
+ 
 - e.g. When Am7 in C major is tonicized, E7 is a secondary dominant chord
 - Denoted V7/vi, the progression is written as V7/vi-vi
 - vii° and ii° are not tonicized since they are diminished
 - e.g. Secondary dominant 7th chords in C major and c minor
-
+ 
 ![image-20240327181403620](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240327181403620.png?raw=true)
-
+ 
 ![image-20240327181413998](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240327181413998.png?raw=true)
-
+ 
 **Secondary diminished**: a (half) diminished chord that resolves to a tonicized chord.
-
+ 
 - e.g. When Am7 in C major is tonicized, #G°7 is a secondary diminished chord
 - Note that the secondary diminished of a minor chord is a diminished chord, that of a major chord can be either half diminished or diminished 
 - vii°/III enharmonically = ii° but resolves differently (vii°/III-III, ii°-V-i)
 - e.g. Secondary diminished chords in C major and c minor
-
+ 
 ![sec-dim-dim7ths-in-major](https://github.com/minth1468/music-theory-101/blob/main/assets/sec-dim-dim7ths-in-major.svg?raw=true)
-
+ 
 ![sec-dim-dim7ths-in-minor](https://github.com/minth1468/music-theory-101/blob/main/assets/sec-dim-dim7ths-in-minor.svg?raw=true)
-
+ 
   - e.g. [Secondary dominant and diminished example](https://www.youtube.com/watch?v=PqD6R8RzZ3o)
-
+ 
   - e.g. [光の中へ](https://www.youtube.com/watch?v=29t3pJd75XU)
-
-### 5.5 Diminished 7th Chords
-
+ 
+## 5.5 Diminished 7th Chords
+ 
 [Resolution of diminished 7th chord](https://www.youtube.com/watch?v=L6UArCYBHLc): diminished 7th chord can resolve into any major or minor chord.
-
+ 
 - All inversions of diminished 7th chord are enharmonically equal
 - diminished 7th chord can resolve either half-step up (common), half-step down or to chord with same root note (auxiliary diminished 7th chord)
-
-### 5.6 Modulation
-
+ 
+## 5.6 Modulation
+ 
 [**Modulation**](https://en.wikipedia.org/wiki/Modulation_(music)): key change
-
+ 
 - Common-chord modulation: key change connected with a shared chord
   - e.g. bA in c minor and bA major
   - e.g. Chopin, Prelude in C minor, Op. 28, No. 20.
-
+ 
 ![1920px-Chopin_-_Prelude_in_C_minor_opening_modulation](https://github.com/minth1468/music-theory-101/blob/main/assets/1920px-Chopin_-_Prelude_in_C_minor_opening_modulation.png?raw=true)
-
+ 
 - Enharmonic modulation: key change connected with enharmonically equal chords (usually related to tritone substitution)
   - e.g. Schubert, String Quartet No. 13 Op.29, I
-
-
+ 
+ 
 ![1920px-Schubert_-_op._29,_D.804,_I,_mm.144-49_enharmonic_modulation](https://github.com/minth1468/music-theory-101/blob/main/assets/1920px-Schubert_-_op._29,_D.804,_I,_mm.144-49_enharmonic_modulation.png?raw=true)
-
+ 
 - Common-tone modulation: key change connected with sustained or repeated shared pitch
   - e.g. Mozart, Fantasia in C minor, K. 475
-
+ 
 ![Common_tone_modulation_between_chromatic_mediants_in_Mozart_K_475](https://github.com/minth1468/music-theory-101/blob/main/assets/Common_tone_modulation_between_chromatic_mediants_in_Mozart_K_475.png?raw=true)
-
+ 
 - Phrase modulation: key change with one phrase ends with a cadence in the original key, and the next phrase begins in the destination key without any transition material linking the two keys
 - Chain modulation: distant key change connected with close related key changes
   - e.g.  C major - G major - D major
   - e.g. C major - C minor - bE major
 - Chromatic modulation: key change connected with chromatic progression
-
+ 
   - e.g. [リセット](https://youtu.be/4oenZkqzdW4?t=79 )
   - e.g. [光の中へ](https://www.youtube.com/watch?v=29t3pJd75XU)
-
-## 6. Chromatic Musical Analysis (Part II) and Others
-
-**Topics**: Upper chord extensions, Altered chords, Exotic scales, Negative harmony
-
-### 6.1 Upper chord extensions and altered chords
-
+ 
+# 6. Chromatic Musical Analysis (Part II) and Others
+ 
+**Topics**: Upper chord extensions, Altered chords, 6 and 69 chords, Dominant sus chords, Augmented chords, Altered scales, Negative harmony
+ 
+## 6.1 Upper Chord Extensions and Alterations
+ 
 [Chord extensions and alterations](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-theory/chord-extensions-alterations/)
-
+ 
+### Extended Chords
+ 
 **Extended chords** add color tones in addition to the basic chord tones (triads and 7th chords) with 9th, 11th, and 13th notes. (following the Tertian rule)
-
-- For a chord to be called extended chord it must have a 3rd and 7th tone;
-- The root establishes the chord tonality (CMaj7 vs DMaj7);
-- The 3rd & 7th (Guide Tones) establish the chord quality (CMaj7 vs C7 vs Cm7);
-- The 5th establishes whether the chord is diminished or augmented (Co vs Cø vs C+7). [Source](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/extensions-alterations)
-
+ 
+- For a chord to be named extended it must have its 3rd and 7th note;
+  - The root establishes the chord tonality (CMaj7 vs DMaj7);
+  - The 3rd & 7th (Guide Tones) establish the chord quality (CMaj7 vs C7 vs Cm7);
+  - The 5th establishes whether the chord is diminished or augmented (Co vs Cø vs C+7). [Source](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/extensions-alterations)
+- There are two types of extensions. e.g. A CM13 chord consists of (R, 3, 5, 7, 9, #11, 13) while a CM7add13 chord consists of (R, 3, 5, 7, 13). 
+ 
 | Chord | Property | Extensions       |
 | ----- | -------- | ---------------- |
 | M7    | Major    | 9th, #11th, 13th |
 | m7    | Minor    | 9th, 11th, 13th  |
 | 7     | Dominant | 9th, #11th, 13th |
-
+ 
 Note: 
-
+ 
 1. 13th chords usually do not include the 11th in the chord.
 2. Extended chords are usually used as Major, minor, or Dominant only.
-
+ 
 - e.g. C Major chord extensions
-
+ 
 ![major-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/1-C-Major-Extensions.jpg?raw=true)
-
+ 
 - e.g. C Dominant chord extensions
-
+ 
 ![dom-chord-extension](https://cdn.pianogroove.com/wp-content/uploads/2022/03/7-C7-Chord-Voicings.jpg?raw=true)
-
+ 
+### Altered Chords
+ 
 **Altered chords**: one or more notes in the diatonic chord are altered to a chromatic note (e.g. raised or lowered a semitone)， usually used to replace the dominant chord.
-
-- Borrowed chords (modal interchange), secondary dominant chords, and substituted dominant chords (tritone substitution) can all be seen as altered chords.
+ 
+- Borrowed chords (modal interchange), secondary dominant chords, and substituted dominant chords (tritone substitution) can all be seen as forms of altered chords
 - Often seen in Jazz context
-- Alt dominant chord: root (I) + 3rd + b5 and/or #5 (b5 is often written as #11) + b7 + b9 and/or #9, and b13.
+- Alt dominant chord: root (I) + 3rd + b5 and/or #5 (b5 is often written as #11) + b7 + b9 and/or #9, and b13
 - An altered C7 chord is denoted as C7alt (the altered notes are usually not specified and can change according to context)
 - e.g. examples of C7alt chord
-
+ 
 ![altered dominant chords](https://hellomusictheory.com/wp-content/uploads/2020/11/altered-chords-2-1536x270.png?raw=true)
-
+ 
 **Table. Upper chord alterations**
-
+ 
 | Chord Proterty | Alterations           |
 | -------------- | --------------------- |
 | Major          | b9, #9, #11, b13, #13 |
 | Minor          | b9, b11, #11, b13     |
 | Dominant       | b9, #9, #11, b13      |
-
-Dominant 7#9 chord: known as the **Hendrix Chord**, used widely in funk, blues, jazz and rock.
-
+ 
+**Dominant 7#9 chord**: known as the **Hendrix Chord**, used widely in funk, blues, jazz and rock.
+ 
 - The #9 note can be seen as a minor 3rd stacked on the major 3rd of the dominant chord. (consider C7#9 as a C blues scale played over a C7 chord)
-
-Dominant 7b9 chord: widely used in funk music (funk guitar strumming).
-
+ 
+**Dominant 7b9 chord**: widely used in funk music (funk guitar strumming).
+ 
 - A dominant 7b9 chord can be seen as a diminished 7th chord stacked on the root note.
   - e.g. A C7b9 chord is enharmonically equal to Edim7/C. (**Slash chords** can be seen as a voicing of extended chords.)
   - Recall that the diminished 7th chord can be resolved into any note: the diminished chord can be played over any note (serving as root note).
   - This leads to the funk guitar strumming style: the same diminished 7th chord can be played throughout the whole chord progression.
-
-A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal to b13.
-
-**Resolution of altered Chords**: Altered chords solves to a major/minor chord 5th below (Valt-I/i), or a major chord a semitone below (bIIalt-I, tritone substitution).
-
+ 
+**Dominant 7(b5/#5) chords**: A b5 note is enharmonically equal to #11, and a #5 note is enharmonically equal to b13.
+ 
+**Resolution of altered chords**: Altered chords solves to a major/minor chord 5th below (Valt-I/i), or a major chord a semitone below (bIIalt-I, tritone substitution).
+ 
 **Altered chord and scale**: Chords are viewed as scales rearranged vertically in jazz music. (Altered Chord = Altered Scale, see section 6.2)
-
+ 
 - e.g. C7b9b13 = 1 b2(b9) 345 b6(b13) b7 =  C Phrygian dominant (see section 6.2)
-
+ 
 [Music Theory Minute #1: Chord Extensions and Alterations]([https://www.youtube.com/watch?v=fzgYxTcaGGo](https://www.youtube.com/watch?v=yc7udUxD7eU&list=PL-ZQIvQFPv4JFew7HeFetA0VbnKgWzbAf&index=1))
-
-**69 chord**
-
-tbc
-
-### 6.2 Exotic scales
-
-**Harmonic minor**
-
+ 
+- Extended chord voicing: 1th and the extended 9th, 11th and 13th notes are usually close voiced as triads on the top.
+ 
+### 6, 69 Chords
+ 
+**6 and 69 chords** are used to substitute major or minor tonic triads (e.g. C/C6/C69 in C major are interchangeable) to add colorful tone without introducing unnecessary tension as a M7 chord (semitone between 7th and root).
+ 
+- A 6 chord is slightly more colorful than the triad, and a 69 chord is even more colorful.
+- When the 3rd is introduced to the chord, A 69 chord can be viewed as a tetrachord over the root note.
+  - e.g. A C69 consisting of (C(R), E(3), A(6), D(9)) can be seen as a E tetrachord (E, A, D) over the root note C.
+  - The fourth-stack voicing introduces a more ambiguous and rich sound compared to a third-stack voicing.
+- Typically used in Jazz endings as a final chord.
+ 
+### Dominant Sus Chords
+ 
+**Dominant sus chords** are extended sus chords. While often have the same function as the sus chords, they are also often used to substitute the dominant chord for colorful tone.
+ 
+- For a chord to be named sus chord, the 3rd must not be present. (Ambiguity between major and minor chords)
+- If the 3rd of the chord is present, the chord is denoted add9 or add11 chord instead of sus2 or sus4 chord.
+- Resolve to the major chord of same root (e.g. I7sus4-I) or down a fifth (e.g. V9sus4-I).
+ 
+### Augmented Chords
+ 
+**Augmented chords** have the following usages.
+ 
+- Can be used to substitute the dominant chord for hightened tension.
+- Can be used to substitute diminished chords.
+- A cliché progression formed by voice leading. (e.g. Cm - B+ - B(or Bm))
+  - e.g. [光の中へ](https://www.youtube.com/watch?v=29t3pJd75XU)
+  - e.g. Cm - B+ - B progression
+ 
+!insert a voice leading diagram here
+|    |    |    |
+|----|----|----|
+| G  | G  | #F |
+| bE | bE | D  |
+| C  | B  | B  |
+ 
+### Chords Summary
+ 
+**Table. Possible Chords, Properties, and Compositions**
+ 
+| Chord Name                | Property   | Notation (R=C) | Composition            |
+|---------------------------|------------|----------------|------------------------|
+| Major triad               | Major      | C              | R, 3, 5                |
+| Major 7th Chord           | Major      | CM7            | R, 3, 5, 7             |
+| Major 6th Chord           | Major      | C6             | R, 3, 5, 6             |
+| Major 6/9 Chord           | Major      | C69            | R, 3, 5, 6, 9          |
+| Major 9th Chord           | Major      | CM9            | R, 3, 5, 7, 9          |
+| Major 7th #11 Chord       | Major      | CM7(#11)       | R, 3, 5, 7, #11        |
+| Major 13th Chord          | Major      | CM13           | R, 3, 5, 7, 9, 13      |
+| Major 13th #11 Chord      | Major      | CM13(#11)      | R, 3, 5, 7, 9, #11, 13 |
+| Minor Triad               | Minor      | Cm             | R, b3, 5               |
+| Minor 7th Chord           | Minor      | Cm7            | R, b3, 5, b7           |
+| Minor 6th Chord           | Minor      | Cm6            | R, b3, 5, 6            |
+| Minor 6/9 Chord           | Minor      | Cm69           | R, b3, 5, 6, 9         |
+| Minor 7th b5 Chord        | Minor      | Cm7b5          | R, b3, b5, b7          |
+| Minor Major 7th Chord     | Minor      | CmM7           | R, b3, 5, 7            |
+| Minor 9th Chord           | Minor      | Cm9            | R, b3, 5, b7, 9        |
+| Minor 11th Chord          | Minor      | Cm11           | R, b3, 5, b7, 9, 11    |
+| Minor 9th b5 Chord        | Minor      | Cm9b5          | R, b3, b5, b7, 9       |
+| Suspended 4th Triad       | Suspended  | Csus           | R, 4, 5                |
+| Suspended 2nd Triad       | Suspended  | Csus2          | R, 2, 5                |
+| Dominant 7th sus 4 Chord  | Suspended  | C7sus4         | R, 4, 5, b7            |
+| Dominant 9th sus 4 Chord  | Suspended  | C9sus4         | R, 4, 5, b7, 9         |
+| Dominant 13th sus 4 Chord | Suspended  | C13sus4        | R, 4, 5, b7, 9, 13     |
+| Dominant 7th Chord        | Dominant   | C7             | R, 3, 5, b7            |
+| Dominant 9th Chord        | Dominant   | C9             | R, 3, 5, b7, 9         |
+| Dominant 13th Chord       | Dominant   | C13            | R, 3, 5, b7, 9, 13     |
+| Dominant 7th b9 Chord     | Dominant   | C7b9           | R, 3, 5, b7, b9        |
+| Dominant 7th #9 Chord     | Dominant   | C7#9           | R, 3, 5, b7, #9        |
+| Dominant 7th b5 Chord     | Dominant   | C7b5           | R, 3, b5, b7           |
+| Dominant 7th #5 Chord     | Dominant   | C7#5           | R, 3, #5, b7           |
+| Dominant 9th b5 Chord     | Dominant   | C9b5           | R, 3, b5, b7, 9        |
+| Dominant 9th #5 Chord     | Dominant   | C9#5           | R, 3, #5, b7, 9        |
+| Dominant 13th b9 Chord    | Dominant   | C13b9          | R, 3, b7, b9, 13       |
+| Dominant 13th #9 Chord    | Dominant   | C13#9          | R, 3, b7, #9, 13       |
+| Dominant 7th #9, b5 Chord | Dominant   | C7#9b5         | R, 3, b5, b5, #9       |
+| Dominant 7th #9, #5 Chord | Dominant   | C7#9#5         | R, 3, #5, b7, #9       |
+| Dominant 7th b9, b5 Chord | Dominant   | C7b9b5         | R, 3, b5, b7, b9       |
+| Dominant 7th b9, #5 Chord | Dominant   | C7b9#5         | R, 3, #5, b7, b9       |
+| Augumented Triad          | Augumented | Caug           | R, 3, #5               |
+| Augumented 7th Chord      | Augumented | C7aug          | R, 3, #5, b7           |
+| Augumented Major7 Chord   | Augumented | CM7#5          | R, 3, #5, 7            |
+| Diminished Triad          | Diminished | Cdim           | R, b3, b5              |
+| Diminished 7th Chord      | Diminished | Cdim7          | R, b3, b5, bb7         |
+ 
+- Note 1. chords with the same property are usually interchangeable according to the context.
+- Note 2. Different voicings of extended chords.
+ 
+![ext-chord-voicing](https://picx.zhimg.com/80/v2-c41717890c939ac6849a998d0ad48efa_720w.webp?raw=true)
+ 
+## 6.2 Altered Scales
+ 
+### Harmonic Minor
+ 
 - e.g. Diatonic 7th chords of C harmonic minor
-
+ 
 ![image-20240328164409558](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328164409558.png?raw=true)
-
+ 
 **Table. Modes of harmonic minor**
-
+ 
 | Name                      | Scale                |
 | ------------------------- | -------------------- |
 | Harmonic minor            | 12 b3 45 b6 7        |
@@ -790,32 +904,32 @@ tbc
 | **Phrygian dominant(#3)** | 1 b2 345 b6 b7       |
 | Lydian  #2                | 1 #2 3 #4 567        |
 | Super Locrian bb7         | 1 b2 b3 b4 b5 b6 bb7 |
-
+ 
 - e.g. [純白トロイメライ](https://www.youtube.com/watch?v=OnEs0dT9g8Q)
-
+ 
 **Phrygian dominant mode** is widely used in metal and jazz music (exotic, foreign flavor)
-
+ 
 - e.g. Diatonic 7th chords of C Phrygian dominant
-
+ 
 ![image-20240328173644558](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328173644558.png?raw=true)
-
+ 
 - e.g. [Dream Theater - Scene Six: Home](https://www.youtube.com/watch?v=GqHSrJ2mLo0)
 - e.g. [Dream Theater - In the Name of God](https://youtu.be/MSI3KSo9DjM?t=29)
 - **Andalusian cadence**: i–VII–VI–V7 chord progression from a modulation between Phrygian scale (i, VI, VII) and Phrygian dominant scale (V7)
   - Associated with Spanish music (V7 is the tonic center in this context)
   - e.g. [El pueblo unido jamàs serà vencido](https://www.youtube.com/watch?v=NwiML8pCB7E) (Andalusian cadence + COF progression)
   - e.g. [デビルマン theme](https://www.youtube.com/watch?v=XRmzkAT3bLI)
-
-**Melodic minor**
-
+ 
+### Melodic Minor
+ 
 [What are the Melodic Minor Modes](https://www.youtube.com/watch?v=E_mto_Dkpo0)
-
+ 
 - e.g. Diatonic 7th chords of C melodic minor
-
+ 
 ![image-20240328165356504](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328165356504.png?raw=true)
-
+ 
 **Table. Modes of melodic minor**
-
+ 
 | Name                               | Scale               |
 | ---------------------------------- | ------------------- |
 | Melodic minor (Jazz minor)         | 12 b3 4567          |
@@ -825,16 +939,16 @@ tbc
 | Mixolydian b13(b6)                 | 12345 b6 b7         |
 | Locrian #2                         | 12 b3 4 b5 b6 b7    |
 | Super(b4) Locrian                  | 1 b2 b3 b4 b5 b6 b7 |
-
-**Harmonic major**
-
+ 
+### Harmonic Major
+ 
 - Mimics the A2 in harmonic minor
 - e.g. Diatonic 7th chords of C harmonic major
-
+ 
 ![image-20240328170302443](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328170302443.png?raw=true)
-
+ 
 **Table. Modes of harmonic major** 
-
+ 
 | Name                              | Scale               |
 | --------------------------------- | ------------------- |
 | Harmonic major                    | 12345 b6 7          |
@@ -844,20 +958,20 @@ tbc
 | Mixolydian b2                     | 1 b2 3456 b7        |
 | Lydian Augmented(#5) #2           | 1 #2 3 #4 #5 67     |
 | Locrian bb7 (Diminished Blues b9) | 1 b2 b3 4 b5 b6 bb7 |
-
-**Double harmonic major**
-
+ 
+### Double Harmonic Major
+ 
 - Also named Byzantine scale or Arabic scale
 - Inherent tritone substitution (bII7: b2-4-b6-7)
 - Have iii and III simultaneously
 - Inherent V7b9 
 - Symmetry (same as Dorian)
 - e.g. Diatonic 7th chords of C  double harmonic major
-
+ 
 ![image-20240328201125863](https://github.com/minth1468/music-theory-101/blob/main/assets/image-20240328201125863.png?raw=true)
-
+ 
 **Table. Modes of double harmonic major** 
-
+ 
 | Name                      | Scale                |
 | ------------------------- | -------------------- |
 | Harmonic major            | 1 b2 345 b6 7        |
@@ -867,16 +981,45 @@ tbc
 | Oriental                  | 1 b2 34 b5 6 b7      |
 | Ionian #2 #5              | 1 #2 34 #5 67        |
 | Locrian bb3 bb7           | 1 b2 bb3 4 b5 b6 bb7 |
-
+ 
 - e.g. [Miserlou](https://www.youtube.com/watch?v=mKpsuGMeqHI) (Double harmonic major - Phrygian dominant)
 - **Double harmonic minor** is also called Hungarian minor scale or Gypsy minor scale
-
+ 
+### Scales Summary
+ 
 Figure. Characteristic chords of scales
-
+ 
 ![tsse2mrtipic1](https://github.com/minth1468/music-theory-101/blob/main/assets/tsse2mrtipic1.jpg)
-
-### 6.3 Negative harmony
-
-tbc.
-
+ 
+## 6.3 Chromatic Progressions
+ 
+turnaround (what tf is a turnaround?)
+https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-voicings/four-way-close/
+https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-progressions/coltrane-changes/
+https://jazz-library.com/articles/chord-progressions/
+(backdoor, Nostalgia, Coltrane progressuion)
+ 
+## 6.4 Negative Harmony
+ 
+![negative-harmony](https://i0.wp.com/beyondmusictheory.org/wp-content/uploads/2021/01/negative-harmony-chord-conversion-2.jpg?raw=true)
+ 
+## 6.5 Extended Readings
+ 
+https://www.zhihu.com/question/280733047/answer/469239940
+[Chord progression model of ACG pop and Jazz music](https://zhuanlan.zhihu.com/p/352727901)
+How to Listen to Jazz, Ted Gioia
+ 
+| size | st  | tt  | ha   | sa   | rc  | ht  | bb | rea | sta   | fl       | sta-bb | ht+fl    | A        | Dphi     |
+|------|-----|-----|------|------|-----|-----|----|-----|-------|----------|--------|----------|----------|----------|
+| 48   | 480 | 507 | 70   | 74   | 435 | 100 | 68 | 360 | 530   | 391.6501 | 462    | 491.6501 | 168.1542 | 16.63777 |
+| 50   | 500 | 512 | 70   | 74   | 435 | 100 | 68 | 364 | 540   | 402.2919 | 472    | 502.2919 | 171.794  | 16.33984 |
+| 52   | 520 | 525 | 70   | 74   | 435 | 120 | 68 | 368 | 550   | 392.9337 | 482    | 512.9337 | 175.4337 | 16.05211 |
+| 54   | 540 | 540 | 70   | 74   | 435 | 130 | 68 | 379 | 559   | 392.5113 | 491    | 522.5113 | 178.7094 | 15.80146 |
+| 56   | 560 | 560 | 70   | 74   | 435 | 150 | 68 | 394 | 578   | 392.7307 | 510    | 542.7307 | 185.6248 | 15.29661 |
+|      |     |     |      |      |     |     |    |     |       |          |        |          |          |          |
+| 44   |     |     | 71   | 74.5 |     | 100 | 68 | 367 | 526.1 | 384.496  |        |          |          |          |
+| 47   |     |     | 71.5 | 74.5 |     | 120 | 68 | 370 | 546.8 | 384.8909 |        |          |          |          |
+| 50   |     |     | 72   | 74.5 |     | 140 | 68 | 375 | 567.7 | 385.4157 |        |          |          |          |
+| 53   |     |     | 72   | 74   |     | 160 | 68 | 380 | 586.7 | 385.3935 |        |          |          |          |
+| 56   |     |     | 72   | 74   |     | 180 | 68 | 385 | 605.7 | 385.3712 |        |          |          |          |
 [7 Levels of Reharmonization (ft. 88bit)](https://www.youtube.com/watch?v=ys0zXG_sZ4Y)
