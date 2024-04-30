@@ -534,7 +534,7 @@ Harmonic progression usually follows the sequence of **T-S-D-T**
  
 | Progression                         | Functional Harmony Analysis |
 | ----------------------------------- | --------------------------- |
-| COF progression (1-4-7-3-6-2-5-1)   | T-S-D-T-T-S-D-T             |
+| COF progression (6-2-5-1-4-7-3-6)   | T-S-D-T-T-S-D-T             |
 | Canon progression (1-5-6-3-4-1-4-5) | T-D-T-T-S-T-S-D             |
 | 4-5-3-6                             | S-D-T-T                     |
 | 4-5-3-4                             | S-D-T-S                     |
@@ -716,7 +716,7 @@ Tonicization:  treat any chord like a tonic by applying a V7-I progression.
   - e.g. [リセット](https://youtu.be/4oenZkqzdW4?t=79 )
   - e.g. [光の中へ](https://www.youtube.com/watch?v=29t3pJd75XU)
  
-# 6. Chromatic Musical Analysis (Part II) and Others
+# 6. Chromatic Musical Analysis (Part II) and Other Topics
  
 **Topics**: Upper chord extensions, Altered chords, 6 and 69 chords, Dominant sus chords, Augmented chords, Altered scales, Negative harmony
  
@@ -994,9 +994,13 @@ Figure. Characteristic chords of scales
 ## 6.3 Chromatic Progressions
  
 turnaround (what tf is a turnaround?)
+
 https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-voicings/four-way-close/
+
 https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-progressions/coltrane-changes/
+
 https://jazz-library.com/articles/chord-progressions/
+
 (backdoor, Nostalgia, Coltrane progressuion)
  
 ## 6.4 Negative Harmony
@@ -1006,7 +1010,9 @@ https://jazz-library.com/articles/chord-progressions/
 ## 6.5 Extended Readings
  
 https://www.zhihu.com/question/280733047/answer/469239940
+
 [Chord progression model of ACG pop and Jazz music](https://zhuanlan.zhihu.com/p/352727901)
+
 How to Listen to Jazz, Ted Gioia
  
 | size | st  | tt  | ha   | sa   | rc  | ht  | bb | rea | sta   | fl       | sta-bb | ht+fl    | A        | Dphi     |
