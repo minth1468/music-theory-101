@@ -492,6 +492,8 @@ Principles of voice leading:
   - e.g. [An example of fourth species counterpoint](https://en.wikipedia.org/wiki/Counterpoint#Fourth_species) (Permitted dissonance if caused by suspended notes and resolved immediately)
  
 ![azgcb4rk](https://github.com/minth1468/music-theory-101/blob/main/assets/azgcb4rk.png?raw=true)
+
+[Songs that use Counterpoint](https://www.youtube.com/watch?v=BGaRq5vi-gA)
  
 ### Suspended Chord
  
