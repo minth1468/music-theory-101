@@ -7,6 +7,8 @@
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c)
  
 - [Download Musescore](https://musescore.org/en)
+
+- [The Jazz Piano Site](https://www.thejazzpianosite.com/jazz-piano-lessons/)
  
 # 0. Temperament and Musical Notations
  
@@ -122,7 +124,7 @@ G clef, F clef, and C clef: name implies note name at the starting stroke of the
  
 Rhyme, Articulations, Dynamics
  
-tbc.
+TBD.
  
 # 1. Scales and Keys
  
@@ -536,7 +538,7 @@ Harmonic progression usually follows the sequence of **T-S-D-T**
  
 | Progression                         | Functional Harmony Analysis |
 | ----------------------------------- | --------------------------- |
-| COF progression (6-2-5-1-4-7-3-6)   | T-S-D-T-T-S-D-T             |
+| COF progression (6-2-5-1-4-7-3-6)   | T-S-D-T-S-D-T-T             |
 | Canon progression (1-5-6-3-4-1-4-5) | T-D-T-T-S-T-S-D             |
 | 4-5-3-6                             | S-D-T-T                     |
 | 4-5-3-4                             | S-D-T-S                     |
@@ -551,6 +553,10 @@ Harmonic flowchart (another presentation of the T-S-D-T rule)
 ![harmony-function-diagram-minor](https://github.com/minth1468/music-theory-101/blob/main/assets/harmony-function-diagram-minor.svg?raw=true)
  
 [Song examples with different chord progressions](https://www.youtube.com/playlist?list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
+
+### 4.7 Chord Progression Voicings
+
+TBD (close/open voicings, smooth251, inverted cannon progression)
  
 # 5. Chromatic Musical Analysis (Part I)
  
